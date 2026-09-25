@@ -1,4 +1,3 @@
-
 import 'dart:async';
 import 'package:flutter/material.dart';
 import 'database_helper.dart'; // Ensure this matches your file path
@@ -122,6 +121,8 @@ class _TicketDetailsPageState extends State<TicketDetailsPage> {
     final String source = widget.ticketData['source_name']?.toString() ?? 'SEALDAH';
     final String dest = widget.ticketData['dest_name']?.toString() ?? 'PARK CIRCUS';
     final String gstNumber = widget.ticketData['gst_number']?.toString() ?? 'IR:19AAAGM0289C1ZG';
+    final String rawVia = widget.ticketData['via']?.toString().trim() ?? '';
+    final String viaText = rawVia.isNotEmpty ? rawVia : '-----';
 
     // 2. Date and Valid Till Calculations
     DateTime bookingDateTime;
@@ -131,8 +132,11 @@ class _TicketDetailsPageState extends State<TicketDetailsPage> {
       bookingDateTime = DateTime.now();
     }
 
-    // valid till = booked time + (distance in km * 20 minutes)
+    // valid till = booked time + (distance in km * 20 minutes),
+    // capped at 1 day since this is an unreserved local-train ticket.
     int minutesToAdd = (distValue * 20).toInt();
+    const int maxValidityMinutes = 24 * 60;
+    if (minutesToAdd > maxValidityMinutes) minutesToAdd = maxValidityMinutes;
     DateTime validTillDateTime = bookingDateTime.add(Duration(minutes: minutesToAdd));
 
     final String boxDateFormatted = _formatBookingDateBox(bookingDateTime);
@@ -310,11 +314,19 @@ class _TicketDetailsPageState extends State<TicketDetailsPage> {
                               Row(
                                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                                 children: [
-                                  const Column(
+                                  Column(
                                     crossAxisAlignment: CrossAxisAlignment.start,
                                     children: [
-                                      Text('Via', style: TextStyle(color: Colors.black54, fontSize: 13)),
-                                      Text('-----', style: TextStyle(color: Colors.black87, fontSize: 15)),
+                                      const Text('Via', style: TextStyle(color: Colors.black54, fontSize: 13)),
+                                      ConstrainedBox(
+                                        constraints: const BoxConstraints(maxWidth: 140),
+                                        child: Text(
+                                          viaText,
+                                          style: const TextStyle(color: Colors.black87, fontSize: 15),
+                                          maxLines: 2,
+                                          overflow: TextOverflow.ellipsis,
+                                        ),
+                                      ),
                                     ],
                                   ),
                                   Column(
@@ -457,28 +469,28 @@ class _TicketDetailsPageState extends State<TicketDetailsPage> {
                   width: double.infinity,
                   padding: const EdgeInsets.symmetric(horizontal: 15, vertical: 12),
                   child:SizedBox(
-                  width: double.infinity,
-                  child: OutlinedButton(
-                    onPressed: () {
-                      // Add your onPressed code here!
-                    },
-                    style: OutlinedButton.styleFrom(
-                      padding: const EdgeInsets.symmetric(vertical: 14),
-                      side: BorderSide(color: Colors.blue.shade300),
-                      shape: RoundedRectangleBorder(
-                        borderRadius: BorderRadius.circular(30),
+                    width: double.infinity,
+                    child: OutlinedButton(
+                      onPressed: () {
+                        // Add your onPressed code here!
+                      },
+                      style: OutlinedButton.styleFrom(
+                        padding: const EdgeInsets.symmetric(vertical: 14),
+                        side: BorderSide(color: Colors.blue.shade300),
+                        shape: RoundedRectangleBorder(
+                          borderRadius: BorderRadius.circular(30),
+                        ),
                       ),
-                    ),
-                    child: Text(
-                      "Book Connecting Journey",
-                      style: TextStyle(
-                        color: Colors.blue.shade600,
-                        fontSize: 14,
-                        fontWeight: FontWeight.w500,
+                      child: Text(
+                        "Book Connecting Journey",
+                        style: TextStyle(
+                          color: Colors.blue.shade600,
+                          fontSize: 14,
+                          fontWeight: FontWeight.w500,
+                        ),
                       ),
                     ),
                   ),
-                ),
                 ),
 
 
@@ -541,7 +553,7 @@ class _TicketDetailsPageState extends State<TicketDetailsPage> {
 
                         ),
                       ),
-                       const SizedBox(height: 30),
+                      const SizedBox(height: 30),
                     ],
                   ),
                 ),
@@ -555,7 +567,7 @@ class _TicketDetailsPageState extends State<TicketDetailsPage> {
             ),
 
 
-          /////////////////////////////////////////////////////////////////////////////////////////////
+            /////////////////////////////////////////////////////////////////////////////////////////////
           ],
         ),
       ),
@@ -595,4 +607,3 @@ class MyBookingsPage extends StatelessWidget {
     );
   }
 }
-

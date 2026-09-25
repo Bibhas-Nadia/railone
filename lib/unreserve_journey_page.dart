@@ -1,4 +1,3 @@
-
 import 'dart:math';
 import 'package:flutter/material.dart';
 import 'database_helper.dart';
@@ -33,10 +32,22 @@ class _UnreservedJourneyPageState extends State<UnreservedJourneyPage> {
   double baseFarePerAdult = 0.0;
   double totalFare = 0.0;
 
+  // Lets the user manually correct the fare if the auto-calculated one looks wrong.
+  bool fareManuallyEdited = false;
+
+  // Optional "via" route text shown on the ticket.
+  final TextEditingController viaController = TextEditingController();
+
   @override
   void initState() {
     super.initState();
     _fetchRouteDetailsFromWeb();
+  }
+
+  @override
+  void dispose() {
+    viaController.dispose();
+    super.dispose();
   }
 
   void _showComingSoon() {
@@ -199,40 +210,112 @@ class _UnreservedJourneyPageState extends State<UnreservedJourneyPage> {
 
 
 
-    // Simulated base fare calculation based on distance (e.g., ₹0.40 per km for Unreserved)
-    // double fetchedFare = (fetchedDistance * 0.40).roundToDouble();
-    // if (fetchedFare < 10.0) fetchedFare = 10.0; // Minimum fare of ₹10
-
-    // if (mounted) {
-    //   setState(() {
-    //     distanceKm = fetchedDistance;
-    //     baseFarePerAdult = fetchedFare;
-    //     _calculateTotalFare();
-    //     isLoadingData = false;
-    //   });
-    // }
-
     double fetchedDistance = distance.roundToDouble();
 
-    double fetchedFare = (fetchedDistance * 0.40).roundToDouble();
-    if (fetchedFare < 10.0) fetchedFare = 5.0; // Minimum fare of ₹10
+    // Real West Bengal Suburban (EMU/MEMU) 2nd Class slab fare, not a flat per-km rate.
+    double fetchedFare = calculateLocalFare(fetchedDistance).toDouble();
 
     if (mounted) {
       setState(() {
         distanceKm = fetchedDistance;
         baseFarePerAdult = fetchedFare;
-        _calculateTotalFare();
+        // A fresh distance fetch should recompute automatically unless the
+        // user has already corrected the fare by hand for this journey.
+        if (!fareManuallyEdited) {
+          _calculateTotalFare();
+        }
         isLoadingData = false;
       });
     }
+  }
 
+  // Official Kolkata Suburban (EMU/MEMU) 2nd Class fare chart.
+  int calculateLocalFare(double distanceInKm) {
+    if (distanceInKm <= 0) return 0;
+    if (distanceInKm <= 15) return 5;
+    if (distanceInKm <= 45) return 10;
+    if (distanceInKm <= 70) return 15;
+    if (distanceInKm <= 100) return 20;
+    if (distanceInKm <= 125) return 25;
+    if (distanceInKm <= 150) return 30;
+    if (distanceInKm <= 175) return 35;
+    if (distanceInKm <= 200) return 40;
 
+    // For distances above 200 km on ordinary non-suburban trains
+    return 40 + (((distanceInKm - 200) / 25).ceil() * 5);
   }
 
   void _calculateTotalFare() {
     // Child fare is typically half of adult fare in unreserved, rounded
     double childFare = (baseFarePerAdult / 2).roundToDouble();
     totalFare = (adultCount * baseFarePerAdult) + (childCount * childFare);
+  }
+
+  // Lets the user manually fix the fare if it still looks wrong after auto-calculation.
+  Future<void> _showEditFareDialog() async {
+    final TextEditingController fareEditController =
+    TextEditingController(text: totalFare.toStringAsFixed(0));
+
+    final dynamic result = await showDialog(
+      context: context,
+      builder: (dialogContext) {
+        return AlertDialog(
+          title: const Text('Edit Fare'),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              const Text(
+                'If the calculated fare looks wrong, you can correct it here.',
+                style: TextStyle(fontSize: 13, color: Colors.grey),
+              ),
+              const SizedBox(height: 12),
+              TextField(
+                controller: fareEditController,
+                autofocus: true,
+                keyboardType: const TextInputType.numberWithOptions(decimal: false),
+                decoration: const InputDecoration(
+                  prefixText: '₹ ',
+                  border: OutlineInputBorder(),
+                  labelText: 'Total Fare',
+                ),
+              ),
+            ],
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.pop(dialogContext),
+              child: const Text('Cancel'),
+            ),
+            TextButton(
+              onPressed: () => Navigator.pop(dialogContext, 'reset'),
+              child: const Text('Reset to Auto'),
+            ),
+            ElevatedButton(
+              onPressed: () {
+                final double? val = double.tryParse(fareEditController.text.trim());
+                Navigator.pop(dialogContext, val);
+              },
+              child: const Text('Save'),
+            ),
+          ],
+        );
+      },
+    );
+
+    if (!mounted || result == null) return;
+
+    if (result == 'reset') {
+      setState(() {
+        fareManuallyEdited = false;
+        _calculateTotalFare();
+      });
+    } else if (result is double) {
+      setState(() {
+        totalFare = result;
+        fareManuallyEdited = true;
+      });
+    }
   }
 
 
@@ -320,6 +403,7 @@ class _UnreservedJourneyPageState extends State<UnreservedJourneyPage> {
       'terminal_id': terminalId,
       'gsin_no': gsinNo,
       'journey_id': journeyId,
+      'via': viaController.text.trim(),
     };
 
     await DatabaseHelper().insertBooking(bookingData);
@@ -441,6 +525,34 @@ class _UnreservedJourneyPageState extends State<UnreservedJourneyPage> {
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
+                  // Via (optional route stations)
+                  Text('Via (optional)', style: TextStyle(color: Colors.grey.shade700, fontSize: 16)),
+                  const SizedBox(height: 8),
+                  TextField(
+                    controller: viaController,
+                    textCapitalization: TextCapitalization.words,
+                    decoration: InputDecoration(
+                      hintText: 'e.g. Dum Dum, Naihati',
+                      prefixIcon: Icon(Icons.alt_route, color: Colors.grey.shade400),
+                      filled: true,
+                      fillColor: Colors.white,
+                      contentPadding: const EdgeInsets.symmetric(vertical: 12, horizontal: 12),
+                      border: OutlineInputBorder(
+                        borderRadius: BorderRadius.circular(8),
+                        borderSide: BorderSide(color: Colors.blue.shade100),
+                      ),
+                      enabledBorder: OutlineInputBorder(
+                        borderRadius: BorderRadius.circular(8),
+                        borderSide: BorderSide(color: Colors.blue.shade100),
+                      ),
+                      focusedBorder: OutlineInputBorder(
+                        borderRadius: BorderRadius.circular(8),
+                        borderSide: const BorderSide(color: primaryBlue),
+                      ),
+                    ),
+                  ),
+                  const SizedBox(height: 24),
+
                   // Train Type
                   Text('Train Type', style: TextStyle(color: Colors.grey.shade700, fontSize: 16)),
                   const SizedBox(height: 8),
@@ -484,7 +596,7 @@ class _UnreservedJourneyPageState extends State<UnreservedJourneyPage> {
                           if (val >= 1 && val <= 4) {
                             setState(() {
                               adultCount = val;
-                              _calculateTotalFare();
+                              if (!fareManuallyEdited) _calculateTotalFare();
                             });
                           }
                         }),
@@ -508,7 +620,7 @@ class _UnreservedJourneyPageState extends State<UnreservedJourneyPage> {
                           if (val >= 0 && val <= 4) {
                             setState(() {
                               childCount = val;
-                              _calculateTotalFare();
+                              if (!fareManuallyEdited) _calculateTotalFare();
                             });
                           }
                         }),
@@ -570,16 +682,35 @@ class _UnreservedJourneyPageState extends State<UnreservedJourneyPage> {
                           width: 20,
                           child: CircularProgressIndicator(strokeWidth: 2)
                         )
-                        : Text('₹ ${totalFare.toStringAsFixed(0)}', style: const TextStyle(color: textDark, fontSize: 20, fontWeight: FontWeight.bold)),
-                        const SizedBox(height: 4),
-                        Container(
-                          padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 2),
-                          decoration: BoxDecoration(
-                            border: Border.all(color: Colors.grey.shade400),
-                            borderRadius: BorderRadius.circular(12),
-                          ),
-                          child: Text('Fare Breakup', style: TextStyle(color: Colors.grey.shade700, fontSize: 10)),
+                        : Row(
+                          mainAxisSize: MainAxisSize.min,
+                          children: [
+                            Text('₹ ${totalFare.toStringAsFixed(0)}', style: const TextStyle(color: textDark, fontSize: 20, fontWeight: FontWeight.bold)),
+                            const SizedBox(width: 4),
+                            GestureDetector(
+                              onTap: _showEditFareDialog,
+                              child: Container(
+                                padding: const EdgeInsets.all(4),
+                                decoration: BoxDecoration(
+                                  color: Colors.blue.shade50,
+                                  shape: BoxShape.circle,
+                                ),
+                                child: Icon(Icons.edit, size: 14, color: Colors.blue.shade700),
+                              ),
+                            ),
+                          ],
                         ),
+                        if (fareManuallyEdited)
+                          Text('Manually edited', style: TextStyle(color: Colors.orange.shade700, fontSize: 10)),
+                          const SizedBox(height: 4),
+                          Container(
+                            padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 2),
+                            decoration: BoxDecoration(
+                              border: Border.all(color: Colors.grey.shade400),
+                              borderRadius: BorderRadius.circular(12),
+                            ),
+                            child: Text('Fare Breakup', style: TextStyle(color: Colors.grey.shade700, fontSize: 10)),
+                          ),
                       ],
                     ),
                   ],
