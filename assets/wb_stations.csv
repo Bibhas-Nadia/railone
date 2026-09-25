@@ -1,0 +1,821 @@
+S No,Station Name,Stn Code,Old Station Category,New Station Category,Division,Zone,District,State,Station (bn),date of official opening,operator,connecting line,coordinate location
+1,JAMURIA,JMA,,,ASN,ER,PASCHIM BARDHAMAN,WEST BENGAL,জামুড়িয়া,,Asansol railway division,Andal–Barabani–Sitarampur branch line,23.7138435/87.071532
+2,KACHUJOR,KOX,,,ASN,ER,BIRBHUM,WEST BENGAL,কচুজোড়,1913,Asansol railway division,Andal–Sainthia branch line,23.8426777354/87.4650456
+3,SIDULI,SXD,,,ASN,ER,PASCHIM BARDHAMAN,WEST BENGAL,সিদুলী,1913,Asansol railway division,Andal–Sainthia branch line,23.6493523213/87.2123263229
+4,CHINCHURIYA,CCR,,,ASN,ER,PASCHIM BARDHAMAN,WEST BENGAL,চিচুরিয়া হল্ট,,Asansol railway division,Andal–Barabani–Sitarampur branch line,23.740218/86.9719497
+5,ISHAN CHANDI HALT,INCI,,,ASN,ER,PURBA BARDHAMAN,WEST BENGAL,ঈশানচণ্ডী হল্ট,,Asansol railway division,Bardhaman–Asansol section,23.3336497763/87.7396679724
+6,LKRA JN.,IKRA,,,ASN,ER,PASCHIM BARDHAMAN,WEST BENGAL,ইকরা,,Asansol railway division,Andal–Barabani–Sitarampur branch line,23.6962789/87.114222
+7,MAHISHADAHARI,MWZ,,,ASN,ER,BIRBHUM,WEST BENGAL,মহিষাডহরী,1913,Asansol railway division,Andal–Sainthia branch line,23.916311/87.649654
+8,BAKHTARNAGAR,BQT,,,ASN,ER,PASCHIM BARDHAMAN,WEST BENGAL,বক্তারনগর হল্ট,,Asansol railway division,Bardhaman–Asansol section,23.589472222222/87.156416666667
+9,CHURULIA,CRA,,,ASN,ER,PASCHIM BARDHAMAN,WEST BENGAL,,,,,
+10,GOURANDI,GNI,,,ASN,ER,PASCHIM BARDHAMAN,WEST BENGAL,,,,,
+11,PINJRAPOL BH,POL,,,ASN,ER,PASCHIM BARDHAMAN,WEST BENGAL,পিঁজরাপোল হল্ট,,Asansol railway division,Bardhaman–Asansol section,23.549642/87.232307
+12,HINDUSTAN CABLE FY.,HCF,,,ASN,ER,PASCHIM BARDHAMAN,WEST BENGAL,,,,,
+13,ASANSOL JN.,ASN,,,ASN,ER,PASCHIM BARDHAMAN,WEST BENGAL,আসানসোল জংশন,1863,Asansol railway division,Bardhaman–Asansol section-Asansol–Tatanagar–Kharagpur line-Asansol–Patna section,23.69131/86.974792
+14,DURGAPUR,DGR,,,ASN,ER,PASCHIM BARDHAMAN,WEST BENGAL,দুর্গাপুর,1855,Asansol railway division,Bardhaman–Asansol section,23.4953/87.3174
+15,ANDAL JN.,UDL,,,ASN,ER,PASCHIM BARDHAMAN,WEST BENGAL,অণ্ডাল জংশন,1855,Asansol railway division,Bardhaman–Asansol section-Andal–Sainthia branch line-Andal–Barabani–Sitarampur branch line,23.579012/87.181194
+16,RANIGANJ,RNG,,,ASN,ER,PASCHIM BARDHAMAN,WEST BENGAL,রানীগঞ্জ,1855,Asansol railway division,Bardhaman–Asansol section,23.6037/87.1174
+17,BARAKAR,BRR,,,ASN,ER,PASCHIM BARDHAMAN,WEST BENGAL,বরাকর,,Asansol railway division,Asansol–Gaya section,23.7416829/86.818859
+18,KULTI,ULT,,,ASN,ER,PASCHIM BARDHAMAN,WEST BENGAL,কুলটি,,Asansol railway division,Asansol–Gaya section,23.737816/86.84887
+19,MANKAR,MNAE,,,ASN,ER,PURBA BARDHAMAN,WEST BENGAL,মানকর,,Asansol railway division,Bardhaman–Asansol section,23.420373/87.555822
+20,PANAGARH,PAN,,,ASN,ER,PASCHIM BARDHAMAN,WEST BENGAL,পানাগড়,,Asansol railway division,Bardhaman–Asansol section,23.443034/87.439587
+21,PANDABESWAR,PAW,,,ASN,ER,PASCHIM BARDHAMAN,WEST BENGAL,পাণ্ডবেশ্বর,1913,Asansol railway division,Andal–Sainthia branch line,23.711965/87.277416
+22,SITARAMPUR,STN,,,ASN,ER,PASCHIM BARDHAMAN,WEST BENGAL,সীতারামপুর জংশন,,Asansol railway division,Asansol–Patna section-Asansol–Gaya section-Andal–Barabani–Sitarampur branch line,23.723864/86.896472
+23,SIURI,SURI,,,ASN,ER,BIRBHUM,WEST BENGAL,সিউড়ী,1913,Asansol railway division,Andal–Sainthia branch line,23.890185/87.5327
+24,UKHRA,UKA,,,ASN,ER,PASCHIM BARDHAMAN,WEST BENGAL,উখরা,1913,Asansol railway division,Andal–Sainthia branch line,23.653692/87.232537
+25,BARABANI,BBI,,,ASN,ER,PASCHIM BARDHAMAN,WEST BENGAL,বারাবাণী,,Asansol railway division,Andal–Barabani–Sitarampur branch line,23.7424743/87.0180702
+26,BARACHAK,BCQ,,,ASN,ER,PASCHIM BARDHAMAN,WEST BENGAL,বরাচক,1871,Asansol railway division,Asansol–Patna section,23.706944/86.928611
+27,BHIMGARA JN.,BMGA,,,ASN,ER,BIRBHUM,WEST BENGAL,ভীমগড়া জংশন,1913,Asansol railway division,Andal–Sainthia branch line-Bhimgara–Palasthali branch line,23.73804814/87.28427905
+28,CHINPAI,CPLE,,,ASN,ER,BIRBHUM,WEST BENGAL,চিনপাই,1913,Asansol railway division,Andal–Sainthia branch line,23.8251766/87.4326918
+29,DUBRAJPUR,DUJ,,,ASN,ER,BIRBHUM,WEST BENGAL,দুবরাজপুর,1913,Asansol railway division,Andal–Sainthia branch line,23.803358/87.378973
+30,GALSI,GLI,,,ASN,ER,PURBA BARDHAMAN,WEST BENGAL,গলসী,,Asansol railway division,Bardhaman–Asansol section,23.358032/87.681236
+31,KAJORAGRAM,KJME,,,ASN,ER,PASCHIM BARDHAMAN,WEST BENGAL,কাজোড়াগ্রাম,1913,Asansol railway division,Andal–Sainthia branch line,23.615327/87.184665
+32,KALIPAHARI,KPK,,,ASN,ER,PASCHIM BARDHAMAN,WEST BENGAL,কালীপাহাড়ী,,Asansol railway division,Bardhaman–Asansol section,23.6648496/87.0162555
+33,KUNURI,KNRI,,,ASN,ER,BIRBHUM,WEST BENGAL,কুনুরী,1913,Asansol railway division,Andal–Sainthia branch line,23.9163057543/87.6115177704
+34,PANCHRA,PCR,,,ASN,ER,BIRBHUM,WEST BENGAL,পাঁচরা,1913,Asansol railway division,Andal–Sainthia branch line,23.77199/87.330151
+35,PARAJ,PAJ,,,ASN,ER,PURBA BARDHAMAN,WEST BENGAL,পারাজ,,Asansol railway division,Bardhaman–Asansol section,23.387863/87.627505
+36,RAJBANDH,RBH,,,ASN,ER,PASCHIM BARDHAMAN,WEST BENGAL,রাজবাঁধ,,Asansol railway division,Bardhaman–Asansol section,23.476136/87.372314
+37,RUPNARAYANPUR,RNPR,,,ASN,ER,PASCHIM BARDHAMAN,WEST BENGAL,রূপনারায়ণপুর,,Asansol railway division,Asansol–Patna section,23.818703/86.885481
+38,SALANPUR,SLS,,,ASN,ER,PASCHIM BARDHAMAN,WEST BENGAL,সালানপুর,,Asansol railway division,Asansol–Patna section,23.760355/86.876395
+39,SONACHARA,SSCR,,,ASN,ER,PASCHIM BARDHAMAN,WEST BENGAL,সোনাচারা,,Asansol railway division,Andal–Barabani–Sitarampur branch line,23.633886/87.147887
+40,TAPASI,TOP,,,ASN,ER,PASCHIM BARDHAMAN,WEST BENGAL,তপসী,,Asansol railway division,Andal–Barabani–Sitarampur branch line,23.6655241/87.1284505
+41,WARIA,OYR,,,ASN,ER,PASCHIM BARDHAMAN,WEST BENGAL,ওয়ারিয়া,,Asansol railway division,Bardhaman–Asansol section,23.537562/87.246177
+42,BISNUPRIYA HALT,VSPR,,,HWH,ER,NADIA,WEST BENGAL,বিষ্ণুপ্রিয়া হল্ট,,Howrah railway division,Bandel–Katwa line,23.414126970945/88.355484008789
+43,DHANIAKHALI HALT,DNHL,,,HWH,ER,HOOGHLY,WEST BENGAL,ধনিয়াখালি হল্ট,2003,Howrah railway division,Howrah–Bardhaman chord,22.95019/88.143651
+44,MALIYA HALT,MLYA,,,HWH,ER,HOOGHLY,WEST BENGAL,মালিয়া,,Howrah railway division,Sheoraphuli–Bishnupur branch line,22.831668/88.136281
+45,MERTALA PHALEYA HALT,MTFA,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,মেড়তলা ফলেয়া,,Howrah railway division,Bandel–Katwa line,23.479666/88.319686
+46,RAJCHANDRAPUR,RCD,,,HWH,ER,HOWRAH,WEST BENGAL,রাজচন্দ্রপুর,,Howrah railway division,Chord link line,22.6528512/88.3210471
+47,AMARUN,ARNB,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,আমারুন,1915,Howrah railway division,Bardhaman–Katwa line,23.3695125/87.9094514
+48,MIAGRAM HALT,MIAN,,,HWH,ER,MURSHIDABAD,WEST BENGAL,মিয়াগ্রাম,,Howrah railway division,Barharwa–Azimganj–Katwa loop,23.853212/88.17146
+49,NIMO HALT,NMF,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,নিমো,,Howrah railway division,Howrah–Bardhaman main line,23.180298/88.069346
+50,SHIBLUN H,SHBL,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,শিবলু্ন,,Howrah railway division,Barharwa–Azimganj–Katwa loop,23.692561/88.082999
+51,TAKIPUR HALT,TKPH,,,HWH,ER,HOOGHLY,WEST BENGAL,,,,,
+52,TALPUR HALT,TLPH,,,HWH,ER,HOOGHLY,WEST BENGAL,তালপুর হল্ট,,Howrah railway division,Sheoraphuli–Bishnupur branch line,22.8748988/87.9744413
+53,ADALPAHARI,ALPD,,,HWH,ER,BIRBHUM,WEST BENGAL,আদলপাহাড়ী,2014,Howrah railway division,Jasidih–Dumka–Rampurhat railway line,24.208218/87.709578
+54,AMBALGRAM,ABGM,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,অম্বলগ্রাম,1917,Howrah railway division,Ahmadpur–Katwa line,23.6929214/88.0790475
+55,BHATAR H,BTRH,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,ভাতাড়,1915,Howrah railway division,Bardhaman–Katwa line,23.406376/87.9248312
+56,BIRSHAMUNDA HALT,BSMH,,,HWH,ER,BANKURA,WEST BENGAL,বিরসামুণ্ডা হল্ট,,Howrah railway division,Sheoraphuli–Bishnupur branch line,23.0459911/87.3638037
+57,CHAMARDIGHI,CMDG,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,চামরদিঘী,1915,Howrah railway division,Bardhaman–Katwa line,23.3336214/87.8897774
+58,CHANCHAI H,CHC,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,চাঁচাই,1917,Howrah railway division,Howrah–Bardhaman chord,23.157905/88.025521
+59,DAHAPARA DHAM,DHPD,,,HWH,ER,MURSHIDABAD,WEST BENGAL,ডাহাপাড়া ধাম,,Howrah railway division,Barharwa–Azimganj–Katwa loop,24.195866/88.246087
+60,DASKALGRAM,DLM,,,HWH,ER,BIRBHUM,WEST BENGAL,দাসকলগ্রাম,1917,Howrah railway division,Ahmadpur–Katwa line,23.7510212/87.9272834
+61,GOGHAT,GOGT,,,HWH,ER,HOOGHLY,WEST BENGAL,গোঘাট,,Howrah railway division,Sheoraphuli–Bishnupur branch line,22.8984689/87.7079076
+62,GOPALPURGRAM,GPLG,,,HWH,ER,BIRBHUM,WEST BENGAL,গোপালপুর গ্রাম,1917,Howrah railway division,Ahmadpur–Katwa line,23.8202415/87.7800657
+63,ISLAMPARA HALT,IPRA,,,HWH,ER,HOOGHLY,WEST BENGAL,,,,,
+64,JIBANTI HALT,JVT,,,HWH,ER,MURSHIDABAD,WEST BENGAL,জিবন্তী,,Howrah railway division,Barharwa–Azimganj–Katwa loop,24.080517/88.192446
+65,KAICHAR,KCY,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,কৈচর,1915,Howrah railway division,Bardhaman–Katwa line,23.5375649/88.011826
+66,KAMNARA,KMRA,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,কামরানা,1915,Howrah railway division,Bardhaman–Katwa line,23.2991248/87.8802797
+67,KANTHALIA ROAD HALT,KTLR,,,HWH,ER,MURSHIDABAD,WEST BENGAL,কাঁঠালিয়া রোড,,Howrah railway division,Barharwa–Azimganj–Katwa loop,23.991771/88.179001
+68,KARJANAGRAM,KJRM,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,করজনাগ্রাম,1915,Howrah railway division,Bardhaman–Katwa line,23.3529188/87.8939429
+69,KAZIPARA HALT,KZPE,,,HWH,ER,MURSHIDABAD,WEST BENGAL,,,,,
+70,KHETIA,KSHT,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,খেতিয়া,1915,Howrah railway division,Bardhaman–Katwa line,23.3128679/87.8847188
+71,KOMARPUR,KMPR,,,HWH,ER,BIRBHUM,WEST BENGAL,কোমরপুর,1917,Howrah railway division,Ahmadpur–Katwa line,23.7344013/87.9969585
+72,KURMADANGA H,KMDC,,,HWH,ER,BIRBHUM,WEST BENGAL,কুরমোডাঙ্গা,1917,Howrah railway division,Ahmadpur–Katwa line,23.7453198/87.9473001
+73,NABAGRAM KANKURHATI,NBKH,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,নবগ্রাম কাঁকুড়হাটী,1917,Howrah railway division,Ahmadpur–Katwa line-Barharwa–Azimganj–Katwa loop,23.661572/88.10026
+74,NANDAIGRAM,NDIM,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,নান্দাইগ্রাম হল্ট,,Howrah railway division,Bandel–Katwa line,23.3115480071/88.3170618604
+75,NIROL F,NXL,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,নিরল,1917,Howrah railway division,Ahmadpur–Katwa line,23.7314438/88.0159023
+76,NIYALISH PARA,NLSF,,,HWH,ER,MURSHIDABAD,WEST BENGAL,নিয়ালিশ পাড়া,,Howrah railway division,Barharwa–Azimganj–Katwa loop,24.1253994/88.2363439
+77,SAHEBTALA HALT,SHBA,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,সাহেবতলা,,Howrah railway division,Bandel–Katwa line,23.591585/88.200996
+78,SAOTA,SOF,,,HWH,ER,BIRBHUM,WEST BENGAL,সাওতা,1915,Howrah railway division,Bardhaman–Katwa line,23.4883896/87.9774454
+79,SHRIKHANDA,SIZ,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,শ্রীখণ্ড,1915,Howrah railway division,Bardhaman–Katwa line,23.5995035/88.0653334
+80,BHADRESHWAR GHAT,BHAE,,,HWH,ER,HOOGHLY,WEST BENGAL,,,,,
+81,BHATTANAGAR,BTNG,,,HWH,ER,HOWRAH,WEST BENGAL,ভট্টনগর,,Howrah railway division,,22.6336144/88.3054876
+82,RAMKISTOPORE,RKAE,,,HWH,ER,HOWRAH,WEST BENGAL,,,,,
+83,HOWRAH,HWH,,,HWH,ER,HOWRAH,WEST BENGAL,হাওড়া জংশন,1854,Howrah railway division,Howrah–Kharagpur line-Howrah–Bardhaman main line,22.5828709/88.3428112
+84,BARDDHAMAN,BWN,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,বর্ধমান জংশন,1855,Howrah railway division,Bardhaman–Asansol section-Howrah–Bardhaman main line-Bardhaman–Katwa line,23.249718/87.870281
+85,BANDEL JN.,BDC,,,HWH,ER,HOOGHLY,WEST BENGAL,ব্যাণ্ডেল জংশন,,Howrah railway division,Howrah–Bardhaman main line-Naihati–Bandel branch line-Bandel–Katwa line,22.9236198/88.3783305
+86,RAMPUR HAT,RPH,,,HWH,ER,BIRBHUM,WEST BENGAL,রামপুরহাট জংশন,,Howrah railway division,Sahibganj Loop-Jasidih–Dumka–Rampurhat railway line,24.179797/87.782147
+87,BOLPUR SHANTINIKETAN,BHP,,,HWH,ER,BIRBHUM,WEST BENGAL,বোলপুর শান্তিনিকেতন,1860,Howrah railway division,Sahibganj Loop,23.657804/87.698136
+88,AHAMADPUR JN.,AMP,,,HWH,ER,BIRBHUM,WEST BENGAL,আহমদপুর জংশন,,Howrah railway division,Sahibganj Loop-Ahmadpur–Katwa line,23.8325090573/87.6928410938
+89,AZIMGANJ,AZ,,,HWH,ER,MURSHIDABAD,WEST BENGAL,আজিমগঞ্জ জংশন,1863,Howrah railway division,Barharwa–Azimganj–Katwa loop,24.2307743/88.2594677
+90,BAZARSAU,BZLE,,,HWH,ER,MURSHIDABAD,WEST BENGAL,বাজারসাউ,,Howrah railway division,Barharwa–Azimganj–Katwa loop,23.8757926/88.1828793
+91,GUSKARA,GKH,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,গুসকরা,,Howrah railway division,Sahibganj Loop,23.489998/87.733397
+92,KHAGRAGHAT ROAD,KGLE,,,HWH,ER,MURSHIDABAD,WEST BENGAL,খাগড়াঘাট রোড,,Howrah railway division,Barharwa–Azimganj–Katwa loop,24.106842/88.226481
+93,MALLARPUR,MLV,,,HWH,ER,BIRBHUM,WEST BENGAL,মল্লারপুর,,Howrah railway division,Sahibganj Loop,24.080029/87.726275
+94,MORGRAM,MGAE,,,HWH,ER,MURSHIDABAD,WEST BENGAL,মোরগ্রাম,,Howrah railway division,Nalhati–Azimganj Branch Line,24.304919/88.018413
+95,MURARAI,MRR,,,HWH,ER,BIRBHUM,WEST BENGAL,মুরারই,1866,Howrah railway division,Sahibganj Loop,24.440886/87.858653
+96,NALHATI JN.,NHT,,,HWH,ER,BIRBHUM,WEST BENGAL,নলহাটী জংশন,1863,Howrah railway division,Nalhati–Azimganj Branch Line-Sahibganj Loop,24.295706/87.83867
+97,RAJGRAM,RJG,,,HWH,ER,BIRBHUM,WEST BENGAL,রাজগ্রাম,,Howrah railway division,Sahibganj Loop,24.545/87.86777778
+98,SAGARDIGHI,SDI,,,HWH,ER,MURSHIDABAD,WEST BENGAL,সাগরদীঘি,,Howrah railway division,Nalhati–Azimganj Branch Line,24.2907409/88.0692814
+99,SAINTHIA JN,SNT,,,HWH,ER,BIRBHUM,WEST BENGAL,সাঁইথিয়া জংশন,,Howrah railway division,Andal–Sainthia branch line-Sahibganj Loop,23.949741/87.681205
+100,SALAR,SALE,,,HWH,ER,MURSHIDABAD,WEST BENGAL,সালার,,Howrah railway division,Barharwa–Azimganj–Katwa loop,23.774579/88.111097
+101,AZIMGANJ CITY,ACLE,,,HWH,ER,MURSHIDABAD,WEST BENGAL,আজিমগঞ্জ সিটি,,Howrah railway division,Barharwa–Azimganj–Katwa loop-Nalhati–Azimganj Branch Line,24.2394685/88.2516074
+102,BANPAS,BPS,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,বনপাস,,Howrah railway division,Sahibganj Loop,23.40073073/87.74725107
+103,BANSHLAI BRIDGE,BSBR,,,HWH,ER,BIRBHUM,WEST BENGAL,বাঁশলৈ ব্রিজ,,Howrah railway division,Sahibganj Loop,24.502611/87.862439
+104,BARALA,BAA,,,HWH,ER,MURSHIDABAD,WEST BENGAL,বারালা,,Howrah railway division,Nalhati–Azimganj Branch Line,24.2669157/88.160003
+105,BATASPUR,BSLE,,,HWH,ER,BIRBHUM,WEST BENGAL,বাতাসপুর,,Howrah railway division,Sahibganj Loop,23.8802785594/87.6806814746
+106,BHEDIA,BDH,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,ভেদিয়া,,Howrah railway division,Sahibganj Loop,23.586642/87.711813
+107,CHATRA,CTR,,,HWH,ER,BIRBHUM,WEST BENGAL,চাতরা,,Howrah railway division,Sahibganj Loop,24.372778/87.848889
+108,CHOWHATTA,CWT,,,HWH,ER,BIRBHUM,WEST BENGAL,চৌহাট্টা,1917,Howrah railway division,Ahmadpur–Katwa line,23.825117/87.7507076
+109,CHOWRIGACHA,CWLE,,,HWH,ER,MURSHIDABAD,WEST BENGAL,চৌরিগাছা,,Howrah railway division,Barharwa–Azimganj–Katwa loop,23.942472/88.186451
+110,GADADHARPUR,GHLE,,,HWH,ER,BIRBHUM,WEST BENGAL,গদাধরপুর,,Howrah railway division,Sahibganj Loop,24.013197/87.691891
+111,GANGATIKURI,GGLE,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,গঙ্গাটিকুরি,,Howrah railway division,Barharwa–Azimganj–Katwa loop,23.71822/88.087286
+112,GOSAINGRAM,GSGB,,,HWH,ER,MURSHIDABAD,WEST BENGAL,গোঁসাইগ্রাম,,Howrah railway division,Nalhati–Azimganj Branch Line,24.248003/88.211777
+113,JHAMATPUR BAHARAN,JHBN,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,ঝামটপুর বহরান,,Howrah railway division,Barharwa–Azimganj–Katwa loop,23.749987/88.098669
+114,JHAPATER DHAL,JTL,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,ঝাপটের ঢাল,,Howrah railway division,Sahibganj Loop,23.367646/87.750181
+115,JNANDAS KANDRA,GNND,,,HWH,ER,BIRBHUM,WEST BENGAL,জ্ঞানদাস কাঁন্দরা,1917,Howrah railway division,Ahmadpur–Katwa line,23.7392708/87.9690823
+116,KARNA SUBARNA,KNSN,,,HWH,ER,MURSHIDABAD,WEST BENGAL,কর্ণসুবর্ণ,,Howrah railway division,Barharwa–Azimganj–Katwa loop,24.035537/88.176458
+117,KHANA JN.,KAN,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,খানা,1854,Howrah railway division,Bardhaman–Asansol section-Sahibganj Loop,23.32091/87.769989
+118,KIRNAHAR,KNHR,,,HWH,ER,BIRBHUM,WEST BENGAL,কীর্ণাহার,,Howrah railway division,Ahmadpur–Katwa line,23.7641617/87.8793275
+119,KOPAI,KPLE,,,HWH,ER,BIRBHUM,WEST BENGAL,কোপাই,,Howrah railway division,Sahibganj Loop,23.759063/87.689548
+120,LABPUR,LBP,,,HWH,ER,BIRBHUM,WEST BENGAL,লাভপুর,1917,Howrah railway division,Ahmadpur–Katwa line,23.8126446/87.8060067
+121,LALBAGH COURT ROAD,LCAE,,,HWH,ER,MURSHIDABAD,WEST BENGAL,লালবাগ কোর্ট রোড,,Howrah railway division,Barharwa–Azimganj–Katwa loop,24.173693/88.246307
+122,LOHAPUR,LAP,,,HWH,ER,BIRBHUM,WEST BENGAL,লোহাপুর,,Howrah railway division,Nalhati–Azimganj Branch Line,24.302357/87.963719
+123,MALIHATI TALIBPUR RO,MHTR,,,HWH,ER,MURSHIDABAD,WEST BENGAL,মালিহাটি তালিবপুর রোড,,Howrah railway division,Barharwa–Azimganj–Katwa loop,23.79372/88.126194
+124,NOADAR DHAL,NRX,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,নোয়াদার ঢাল,,Howrah railway division,Sahibganj Loop,23.433927/87.745014
+125,PACHANDI,PNDI,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,পাঁচন্দী,1917,Howrah railway division,Ahmadpur–Katwa line,23.7221645/88.0508414
+126,PICHKURIR DHAL,PCQ,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,পিচকুড়ির ঢাল,,Howrah railway division,Sahibganj Loop,23.54342/87.720914
+127,PRANTIK,PNE,,,HWH,ER,BIRBHUM,WEST BENGAL,প্রান্তিক,,Howrah railway division,Sahibganj Loop,23.694435/87.693501
+128,SWADINPUR,SDLE,,,HWH,ER,BIRBHUM,WEST BENGAL,সাদীনপুর,,Howrah railway division,Sahibganj Loop,24.253478/87.822587
+129,TAKIPUR,TKP,,,HWH,ER,BIRBHUM,WEST BENGAL,টাকিপুর,,Howrah railway division,Nalhati–Azimganj Branch Line,24.303242/87.920594
+130,TALIT,TIT,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,তালিত,1854,Howrah railway division,Bardhaman–Asansol section,23.29331/87.819122
+131,TARAPITH ROAD,TPF,,,HWH,ER,BIRBHUM,WEST BENGAL,তারাপীঠ রোড,,Howrah railway division,Sahibganj Loop,24.1265252897/87.7522050836
+132,TENYA,TYAE,,,HWH,ER,MURSHIDABAD,WEST BENGAL,টেঁয়া,,Howrah railway division,Barharwa–Azimganj–Katwa loop,23.822157/88.148864
+133,KONNAGAR,KOG,,,HWH,ER,HOOGHLY,WEST BENGAL,কোন্নগর,1854,Howrah railway division,Howrah–Bardhaman main line,22.70126/88.3425107
+134,RISHRA,RIS,,,HWH,ER,HOOGHLY,WEST BENGAL,রিষড়া,1854,Howrah railway division,Howrah–Bardhaman main line,22.7261414/88.343487
+135,SHEORAPHULLY JN.,SHE,,,HWH,ER,HOOGHLY,WEST BENGAL,শেওড়াফুলি জংশন,1854,Howrah railway division,Howrah–Bardhaman main line-Sheoraphuli–Bishnupur branch line,22.7748/88.3284
+136,SHRIRAMPUR,SRP,,,HWH,ER,HOOGHLY,WEST BENGAL,শ্রীরামপুর,1854,Howrah railway division,Howrah–Bardhaman main line,22.754097/88.338624
+137,ADI SAPTAGRAM,ADST,,,HWH,ER,HOOGHLY,WEST BENGAL,আদিসপ্তগ্রাম,,Howrah railway division,Howrah–Bardhaman main line,22.95447/88.378872
+138,AGRADWIP,AGAE,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,অগ্রদ্বীপ,,Howrah railway division,Bandel–Katwa line,23.58096/88.226117
+139,AMBIKA KALNA,ABKA,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,অম্বিকা কালনা,,Howrah railway division,Bandel–Katwa line,23.211377/88.353984
+140,ARAMBAG,AMBG,,,HWH,ER,HOOGHLY,WEST BENGAL,আরামবাগ,,Howrah railway division,Sheoraphuli–Bishnupur branch line,22.8874658/87.7921651
+141,BAGHNAPARA,BGRA,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,বাঘনাপাড়া,,Howrah railway division,Bandel–Katwa line,23.242082/88.329724
+142,BAGILA,BGF,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,বাগিলা,,Howrah railway division,Howrah–Bardhaman main line,23.16014581/88.12200441
+143,BAHIR KHANDA,BAHW,,,HWH,ER,HOOGHLY,WEST BENGAL,বাহিরখণ্ড,,Howrah railway division,Sheoraphuli–Bishnupur branch line,22.851949/88.071068
+144,BAIDYABATI,BBAE,,,HWH,ER,HOOGHLY,WEST BENGAL,বৈদ্যবাটি,,Howrah railway division,Howrah–Bardhaman main line,22.79549199/88.33203765
+145,BAINCHI,BOI,,,HWH,ER,HOOGHLY,WEST BENGAL,বৈঁচি,,Howrah railway division,Howrah–Bardhaman main line,23.1191243/88.196286
+146,BAINCHIGRAM,BCGM,,,HWH,ER,HOOGHLY,WEST BENGAL,বৈঁচিগ্রাম,,Howrah railway division,Howrah–Bardhaman main line,23.10588031/88.21629817
+147,BALAGARH,BGAE,,,HWH,ER,HOOGHLY,WEST BENGAL,বলাগড়,,Howrah railway division,Bandel–Katwa line,23.1215453/88.4525522
+148,BALARAMBATI,BLAE,,,HWH,ER,HOOGHLY,WEST BENGAL,বলরামবাটী,,Howrah railway division,Howrah–Bardhaman chord,22.8080526/88.2116836
+149,BALGONA,BGNA,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,বলগোনা,1915,Howrah railway division,Bardhaman–Katwa line,23.458049719227/87.950456449762
+150,BALLY,BLY,,,HWH,ER,HOWRAH,WEST BENGAL,বালি,,Howrah railway division,Howrah–Bardhaman main line-Howrah–Bardhaman chord,22.6550777/88.3404293
+151,BANKAPASI F,BCF,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,বনকাপাসী,1915,Howrah railway division,Bardhaman–Katwa line,23.5704001/88.0372191
+152,BANSH BARIA,BSAE,,,HWH,ER,HOOGHLY,WEST BENGAL,বাঁশবেড়িয়া,,Howrah railway division,Bandel–Katwa line,22.957288/88.395641
+153,BARUI PARA,BRPA,,,HWH,ER,HOOGHLY,WEST BENGAL,বারুইপাড়া,,Howrah railway division,Howrah–Bardhaman chord,22.7668969/88.2370465
+154,BEGAMPUR,BPAE,,,HWH,ER,HOOGHLY,WEST BENGAL,বেগমপুর,1917,Howrah railway division,Howrah–Bardhaman chord,22.737627/88.255644
+155,BEHULA,BHLA,,,HWH,ER,HOOGHLY,WEST BENGAL,বেহুলা,,Howrah railway division,Bandel–Katwa line,23.1819674/88.4287921
+156,BELANAGAR,BZL,,,HWH,ER,HOWRAH,WEST BENGAL,বেলানগর,1958,Howrah railway division,Howrah–Bardhaman chord,22.6612065/88.3170935
+157,BELERHAT,BQY,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,বেলেরহাট,,Howrah railway division,Bandel–Katwa line,23.51930706/88.28291748
+158,BELMURI,BMAE,,,HWH,ER,HOOGHLY,WEST BENGAL,বেলমুড়ি,1917,Howrah railway division,Howrah–Bardhaman chord,22.93272742/88.15233111
+159,BELUR,BEQ,,,HWH,ER,HOWRAH,WEST BENGAL,বেলুড়,,Howrah railway division,Howrah–Bardhaman main line,22.6357323/88.3398223
+160,BELUR MATH,BRMH,,,HWH,ER,HOWRAH,WEST BENGAL,বেলুড় মঠ,2003,Howrah railway division,Liluah–Belur Math branch line,22.631072/88.351431
+161,BHADRESHWAR,BHR,,,HWH,ER,HOOGHLY,WEST BENGAL,ভদ্রেশ্বর,,Howrah railway division,Howrah–Bardhaman main line,22.8279397/88.34153486
+162,BHANDARTIKURI,BFZ,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,ভান্ডারটিকুরী,,Howrah railway division,Bandel–Katwa line,23.43319157/88.32981731
+163,CHANDAN NAGAR,CGR,,,HWH,ER,HOOGHLY,WEST BENGAL,চন্দননগর,,Howrah railway division,Howrah–Bardhaman main line,22.86747/88.354421
+164,CHANDANPUR,CDAE,,,HWH,ER,HOOGHLY,WEST BENGAL,চন্দনপুর,1917,Howrah railway division,Howrah–Bardhaman chord,22.8813/88.176177
+165,CHUCHURA,CNS,,,HWH,ER,HOOGHLY,WEST BENGAL,চুঁচুড়া,,Howrah railway division,Howrah–Bardhaman main line,22.890191/88.3695
+166,DAINHAT,DHAE,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,দাঁইহাট,,Howrah railway division,Bandel–Katwa line,23.60191/88.170269
+167,DANKUNI,DKAE,,,HWH,ER,HOOGHLY,WEST BENGAL,ডানকুনি জংশন,1917,Howrah railway division,Chord link line-Howrah–Bardhaman chord,22.6783/88.2908
+168,DEBIPUR,DBP,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,দেবীপুর,,Howrah railway division,Howrah–Bardhaman main line,23.1446129567/88.1559976581
+169,DHATRIGRAM,DTAE,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,ধাত্রীগ্রাম,,Howrah railway division,Bandel–Katwa line,23.277796/88.311822
+170,DIARA,DEA,,,HWH,ER,HOOGHLY,WEST BENGAL,দিয়াড়া,,Howrah railway division,Sheoraphuli–Bishnupur branch line,22.798157/88.280471
+171,DUMURDAHA,DMLE,,,HWH,ER,HOOGHLY,WEST BENGAL,ডুমুরদহ,,Howrah railway division,Bandel–Katwa line,23.040053/88.432662
+172,GANGPUR,GRP,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,গাংপুর,,Howrah railway division,Howrah–Bardhaman main line,23.223525/87.928116
+173,GARIFA,GFAE,,,HWH,ER,24 PARAGANAS NORTH,WEST BENGAL,গরিফা,,Howrah railway division,Naihati–Bandel branch line,22.9084986/88.4114952
+174,GOBRA,GBRA,,,HWH,ER,HOOGHLY,WEST BENGAL,গোবরা,1917,Howrah railway division,Howrah–Bardhaman chord,22.695504/88.279274
+175,GOKULNAGAR JOYPUR,GNJP,,,HWH,ER,BANKURA,WEST BENGAL,গোকুলনগর জয়পুর,,Howrah railway division,Sheoraphuli–Bishnupur branch line,23.0403492/87.4560964
+176,GUPTIPARA,GPAE,,,HWH,ER,HOOGHLY,WEST BENGAL,গুপ্তিপাড়া,,Howrah railway division,Bandel–Katwa line,23.197355/88.4178
+177,GURAP,GRAE,,,HWH,ER,HOOGHLY,WEST BENGAL,গুড়াপ,1917,Howrah railway division,Howrah–Bardhaman chord,23.02534/88.112282
+178,HAJIGARH,HIH,,,HWH,ER,HOOGHLY,WEST BENGAL,হাজিগড়,1917,Howrah railway division,Howrah–Bardhaman chord,23.007032/88.121403
+179,HARIPAL,HPL,,,HWH,ER,HOOGHLY,WEST BENGAL,হরিপাল,,Howrah railway division,Sheoraphuli–Bishnupur branch line,22.8311582/88.11853982
+180,HIND MOTOR,HMZ,,,HWH,ER,HOOGHLY,WEST BENGAL,হিন্দ মোটর,,Howrah railway division,Howrah–Bardhaman main line,22.6836507/88.3417989
+181,HOOGHLY,HGY,,,HWH,ER,HOOGHLY,WEST BENGAL,হুগলী,1854,Howrah railway division,Howrah–Bardhaman main line,22.9048/88.3759
+182,HOOGHLY GHAT,HYG,,,HWH,ER,HOOGHLY,WEST BENGAL,হুগলী ঘাট,,Howrah railway division,Naihati–Bandel branch line,22.9049/88.3965
+183,JANAI ROAD,JOX,,,HWH,ER,HOOGHLY,WEST BENGAL,জনাই রোড,,Howrah railway division,Howrah–Bardhaman chord,22.7206/88.2658
+184,JAUGRAM,JRAE,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,জৌগ্রাম,1917,Howrah railway division,Howrah–Bardhaman chord,23.078737/88.080887
+185,JHAPANDANGA,JPQ,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,ঝাপানডাঙ্গা,1917,Howrah railway division,Howrah–Bardhaman chord,23.064129/88.091187
+186,JIRAT,JIT,,,HWH,ER,HOOGHLY,WEST BENGAL,জিরাট,,Howrah railway division,Bandel–Katwa line,23.098255/88.461461
+187,KAIKALA,KKAE,,,HWH,ER,HOOGHLY,WEST BENGAL,কৈকালা,,Howrah railway division,Sheoraphuli–Bishnupur branch line,22.83998676/88.09337895
+188,KALINAGAR,KLNT,,,HWH,ER,NADIA,WEST BENGAL,কালীনগর,,Howrah railway division,Bandel–Katwa line,23.365861/88.335819
+189,KAMARKUNDU,KQU,,,HWH,ER,HOOGHLY,WEST BENGAL,কামারকুণ্ডু,1885,Howrah railway division,Howrah–Bardhaman chord-Sheoraphuli–Bishnupur branch line,22.8209/88.204311111111
+190,KARJANA,KJRA,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,করজনা,1915,Howrah railway division,Bardhaman–Katwa line,23.3445683/87.8922692
+191,KATWA JN.,KWAE,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,কাটোয়া জংশন,1913,Howrah railway division,Bandel–Katwa line-Bardhaman–Katwa line-Ahmadpur–Katwa line,23.639805/88.123575
+192,KHAMARGACHHI,KMAE,,,HWH,ER,HOOGHLY,WEST BENGAL,খামারগাছি,,Howrah railway division,Bandel–Katwa line,23.054229/88.44421
+193,KHANYAN,KHN,,,HWH,ER,HOOGHLY,WEST BENGAL,খন্যান,,Howrah railway division,Howrah–Bardhaman main line,23.046222/88.314472
+194,KUNTIGHAT,KJU,,,HWH,ER,HOOGHLY,WEST BENGAL,কুন্তীঘাট,,Howrah railway division,Bandel–Katwa line,23.016799/88.413149
+195,LAKSHMIPUR,LKX,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,লক্ষীপুর,,Howrah railway division,Bandel–Katwa line,23.502512/88.302374
+196,LILUAH,LLH,,,HWH,ER,HOWRAH,WEST BENGAL,লিলুয়া,,Howrah railway division,Liluah–Belur Math branch line-Howrah–Bardhaman main line,22.6207446/88.3392327
+197,LOKNATH,LOK,,,HWH,ER,HOOGHLY,WEST BENGAL,লোকনাথ,,Howrah railway division,Sheoraphuli–Bishnupur branch line,22.871718/88.033921
+198,MADHU SUDANPUR,MDSE,,,HWH,ER,HOOGHLY,WEST BENGAL,মধুসূদনপুর,1917,Howrah railway division,Howrah–Bardhaman chord,22.845108/88.193499
+199,MAGRA,MUG,,,HWH,ER,HOOGHLY,WEST BENGAL,মগরা,,Howrah railway division,Howrah–Bardhaman main line,22.983125/88.36829
+200,MANKUNDU,MUU,,,HWH,ER,HOOGHLY,WEST BENGAL,মানকুণ্ডু,,Howrah railway division,Howrah–Bardhaman main line,22.846462/88.346368
+201,MASAGRAM,MSAE,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,মসাগ্রাম,1917,Howrah railway division,Howrah–Bardhaman chord-Bankura–Masagram line,23.1351191/88.0426571
+202,MAYAPUR,MAYP,,,HWH,ER,HOOGHLY,WEST BENGAL,মায়াপুর,,Howrah railway division,Sheoraphuli–Bishnupur branch line,22.8686618/87.8672187
+203,MEMARI,MYM,,,HWH,ER,HOOGHLY,WEST BENGAL,মেমারী,,Howrah railway division,Howrah–Bardhaman main line,23.172935/88.095637
+204,MIRZAPUR-BANKIPUR,MBE,,,HWH,ER,HOOGHLY,WEST BENGAL,মির্জ্জাপুর বাঁকিপুর,,Howrah railway division,Howrah–Bardhaman chord,22.790719/88.222274
+205,NABADWIP DHAM,NDAE,,,HWH,ER,NADIA,WEST BENGAL,নবদ্বীপ ধাম,1913,Howrah railway division,Bandel–Katwa line,23.396593/88.356472
+206,NABAGRAM,NBAE,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,নবগ্রাম,1917,Howrah railway division,Howrah–Bardhaman chord,23.09918/88.066909
+207,NALIKUL,NKL,,,HWH,ER,HOOGHLY,WEST BENGAL,নালিকুল,,Howrah railway division,Sheoraphuli–Bishnupur branch line,22.829713/88.166226
+208,NASIBPUR,NSF,,,HWH,ER,HOOGHLY,WEST BENGAL,নসিবপুর,,Howrah railway division,Sheoraphuli–Bishnupur branch line,22.804835/88.262036
+209,NEGUN HALT,NGX,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,নিগান,1915,Howrah railway division,Bardhaman–Katwa line,23.5051556/87.992506
+210,PALLA ROAD,PRAE,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,পাল্লা রোড,1917,Howrah railway division,Howrah–Bardhaman chord,23.179393/88.009121
+211,PALSIT,PLAE,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,পালসিট,,Howrah railway division,Howrah–Bardhaman main line,23.1970307098/88.0032215405
+212,PANDOOAH,PDA,,,HWH,ER,HOOGHLY,WEST BENGAL,পাণ্ডুয়া,,Howrah railway division,Howrah–Bardhaman main line,23.070862/88.270115
+213,PATULI,PTAE,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,পাটুলী,,Howrah railway division,Bandel–Katwa line,23.5473858/88.2521117
+214,PORABAZAR,PBZ,,,HWH,ER,HOOGHLY,WEST BENGAL,পোড়াবাজার,1917,Howrah railway division,Howrah–Bardhaman chord,22.916427/88.15914
+215,PURBASTHALI,PSAE,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,পূর্বস্থলী,,Howrah railway division,Bandel–Katwa line,23.453302/88.323896
+216,RASULPUR,RSLR,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,রসুলপুর,,Howrah railway division,Howrah–Bardhaman main line,23.187229/88.039994
+217,SAKTIGARH,SKG,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,শক্তিগড়,1855,Howrah railway division,Howrah–Bardhaman main line-Howrah–Bardhaman chord,23.2071/87.9693
+218,SAMUDRAGARH,SMAE,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,সমুদ্রগড়,,Howrah railway division,Bandel–Katwa line,23.335767/88.324967
+219,SHRIPAT SHRIKHANDA,SPS,,,HWH,ER,PURBA BARDHAMAN,WEST BENGAL,শ্রীপাট শ্রীখণ্ড,1915,Howrah railway division,Bardhaman–Katwa line,23.6067122/88.0726692
+220,SIBAICHANDI,SHBC,,,HWH,ER,HOOGHLY,WEST BENGAL,শিবাইচণ্ডী,1917,Howrah railway division,Howrah–Bardhaman chord,22.974465/88.13369
+221,SIMLAGARH,SLG,,,HWH,ER,HOOGHLY,WEST BENGAL,সিমলাগড়,,Howrah railway division,Howrah–Bardhaman main line,23.095679/88.231213
+222,SINGUR,SIU,,,HWH,ER,HOOGHLY,WEST BENGAL,সিঙ্গুর,,Howrah railway division,Sheoraphuli–Bishnupur branch line,22.814558/88.228712
+223,SOMRA BAZAR,SOAE,,,HWH,ER,HOOGHLY,WEST BENGAL,সোমড়া বাজার,,Howrah railway division,Bandel–Katwa line,23.13916/88.433032
+224,TALANDU,TLO,,,HWH,ER,HOOGHLY,WEST BENGAL,তালাণ্ডু,,Howrah railway division,Howrah–Bardhaman main line,23.009788/88.345088
+225,TARAKESWAR,TAK,,,HWH,ER,HOOGHLY,WEST BENGAL,তারকেশ্বর,1885,Howrah railway division,Sheoraphuli–Bishnupur branch line,22.8821/88.0145
+226,TRIBENI,TBAE,,,HWH,ER,HOOGHLY,WEST BENGAL,ত্রিবেণী,1913,Howrah railway division,Bandel–Katwa line,22.990358/88.398096
+227,UTTARPARA,UPA,,,HWH,ER,HOOGHLY,WEST BENGAL,উত্তরপাড়া,,Howrah railway division,Howrah–Bardhaman main line,22.6670459/88.3411458
+228,BASUDEBPUR H,BDBP,,,MLDT,ER,MURSHIDABAD,WEST BENGAL,বাসুদেবপুর হল্ট,,Malda railway division,Barharwa–Azimganj–Katwa loop,24.6355270351/87.982535498
+229,AHIRAN H,AHN,,,MLDT,ER,MURSHIDABAD,WEST BENGAL,আহিরন,,Malda railway division,Barharwa–Azimganj–Katwa loop,24.517687/88.041125
+230,MAHIPAL HALT,MPLE,,,MLDT,ER,MURSHIDABAD,WEST BENGAL,মহীপাল,,Malda railway division,Barharwa–Azimganj–Katwa loop,24.30631/88.162107
+231,NOAPARA MAHISHASUR,NWMS,,,MLDT,ER,MURSHIDABAD,WEST BENGAL,নোয়াপাড়া মহিষাসুর,,Malda railway division,Barharwa–Azimganj–Katwa loop,24.323279/88.137274
+232,SANKOPARA H,SXP,,,MLDT,ER,MURSHIDABAD,WEST BENGAL,সাঁকোপাড়া,,Malda railway division,Barharwa–Azimganj–Katwa loop,24.7176851264/87.9344515665
+233,HAUSNAGAR,HSM,,,MLDT,ER,MURSHIDABAD,WEST BENGAL,হাউসনগর,,Malda railway division,Barharwa–Azimganj–Katwa loop,24.646721/87.94988
+234,MALDA TOWN,MLDT,,,MLDT,ER,MALDAH,WEST BENGAL,মালদা টাউন,1971,Malda railway division,New Farakka–New Jalpaiguri line,25.0162/88.1302
+235,NEW FARAKKA,NFK,,,MLDT,ER,MURSHIDABAD,WEST BENGAL,নিউ ফরাক্কা জংশন,1971,Malda railway division,New Farakka–New Jalpaiguri line-Barharwa–Azimganj–Katwa loop,24.794558/87.915236
+236,DHULIAN GANGA,DGLE,,,MLDT,ER,MURSHIDABAD,WEST BENGAL,ধুলিয়ান গঙ্গা,,Malda railway division,Barharwa–Azimganj–Katwa loop,24.672086/87.937644
+237,JANGIPUR ROAD,JRLE,,,MLDT,ER,MURSHIDABAD,WEST BENGAL,জঙ্গীপুর রোড,1913,Malda railway division,Barharwa–Azimganj–Katwa loop,24.459515/88.04076
+238,KHALTIPUR,KTJ,,,MLDT,ER,MALDAH,WEST BENGAL,খালতিপুর,,Malda railway division,New Farakka–New Jalpaiguri line,24.875742/88.021646
+239,NIMTITA,NILE,,,MLDT,ER,MURSHIDABAD,WEST BENGAL,নিমতিতা,,Malda railway division,Barharwa–Azimganj–Katwa loop,24.625338/88.00764
+240,BALLALPUR,BPBS,,,MLDT,ER,MURSHIDABAD,WEST BENGAL,,,,,
+241,CHAMAGRAM,CMX,,,MLDT,ER,MALDAH,WEST BENGAL,চামাগ্রাম,,Malda railway division,New Farakka–New Jalpaiguri line,24.821334/87.963345
+242,GANKAR,GALE,,,MLDT,ER,MURSHIDABAD,WEST BENGAL,গনকর,,Malda railway division,Barharwa–Azimganj–Katwa loop,24.4048041196/88.0728943982
+243,GOUR MALDA,GZM,,,MLDT,ER,MALDAH,WEST BENGAL,গৌড় মালদা,,Malda railway division,New Farakka–New Jalpaiguri line,24.94794444/88.11078197
+244,JAMIRGHATA,JMQ,,,MLDT,ER,MALDAH,WEST BENGAL,জামিরঘাটা,,Malda railway division,New Farakka–New Jalpaiguri line,24.916623/88.06776
+245,MAHIPAL ROAD,MPLR,,,MLDT,ER,MURSHIDABAD,WEST BENGAL,মহীপাল রোড,,Malda railway division,Barharwa–Azimganj–Katwa loop,24.2875453877/88.1911711557
+246,MANIGRAM,MGLE,,,MLDT,ER,MURSHIDABAD,WEST BENGAL,মনিগ্রাম,,Malda railway division,Barharwa–Azimganj–Katwa loop,24.3428549076/88.107881626
+247,PORADANGA,PRDG,,,MLDT,ER,MURSHIDABAD,WEST BENGAL,পোড়াডাঙা হল্ট,,Malda railway division,Barharwa–Azimganj–Katwa loop,24.2602726462/88.2261646533
+248,SUJNIPARA,SPLE,,,MLDT,ER,MURSHIDABAD,WEST BENGAL,সুজনীপাড়া,,Malda railway division,Barharwa–Azimganj–Katwa loop,24.571584/88.036797
+249,TILDANGA,TDLE,,,MLDT,ER,MURSHIDABAD,WEST BENGAL,তিলডাঙ্গা,,Malda railway division,Barharwa–Azimganj–Katwa loop,24.786749/87.873801
+250,AKAIPUR H,AKIP,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,আকাইপুর,1884,Sealdah railway division,Ranaghat–Bangaon branch line,23.0951737/88.7173097
+251,AMGHATA H,AHT,,,SDAH,ER,NADIA,WEST BENGAL,আমঘাটা,,Sealdah railway division,,23.4128741/88.4199777
+252,BAHIRA KALIBARI,BHKA,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,বহিরা কালীবাড়ী,1962,Sealdah railway division,Barasat–Hasnabad branch line,22.6859776/88.5649034
+253,BAHIRGACHHI H,BHGH,,,SDAH,ER,NADIA,WEST BENGAL,বহিরগাছি,,Sealdah railway division,Ranaghat–Gede branch line,23.274779/88.634016
+254,BAHIRPUYA HALT,BHPA,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,বাহিরপুয়া হল্ট,,Sealdah railway division,Baruipur–Diamond Harbour branch line,22.22962/88.349067
+255,BALLY HALT,BLYH,,,SDAH,ER,HOWRAH,WEST BENGAL,বালি হল্ট,,Sealdah railway division,Chord link line,22.6522299/88.3392513
+256,BANKIMNAGAR HALT,BNKA,,,SDAH,ER,NADIA,WEST BENGAL,বঙ্কিমনগর,1862,Sealdah railway division,Ranaghat–Gede branch line,23.20905877/88.59190873
+257,BATHNA KIRTTIBAS HAL,BTKB,,,SDAH,ER,NADIA,WEST BENGAL,বাথনা কৃত্তিবাস,,Sealdah railway division,Kalinarayanpur–Shantipur–Krishnanagar branch line,23.2463666/88.463018
+258,BELIAGHATA ROAD,BGRD,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,বেলিয়াঘাটা রোড,1962,Sealdah railway division,Barasat–Hasnabad branch line,22.674796/88.6076805
+259,BETBERIA GHOLA HALT,BTPG,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,বেতবেড়িয়া ঘোলা,,Sealdah railway division,Sonarpur–Canning branch line,22.3508281/88.5746749
+260,BHAYNA H,BHNA,,,SDAH,ER,NADIA,WEST BENGAL,ভায়না,,Sealdah railway division,Ranaghat–Gede branch line,23.312261/88.641659
+261,BHYABLA,BBLA,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,ভ্যাবলা হল্ট,1962,Sealdah railway division,Barasat–Hasnabad branch line,22.6553543/88.8535985
+262,BIBHUTI BHUSHAN H,BNAA,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,বিভূতিভূষণ হল্ট,1906,Sealdah railway division,Sealdah–Bangaon line,23.0002392/88.8038984
+264,DIGNAGAR,DTG,,,SDAH,ER,NADIA,WEST BENGAL,দিগনগর,,Sealdah railway division,Kalinarayanpur–Shantipur–Krishnanagar branch line,23.3188759/88.4559074
+265,GAURDAHA HALT,GQD,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,গৌড়দহ,,Sealdah railway division,Sonarpur–Canning branch line,22.3783115/88.5346299
+266,GHORARAS GHONA HALT,GGV,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,ঘোড়ারাস ঘোনা,1962,Sealdah railway division,Barasat–Hasnabad branch line,22.6517759/88.7823931
+267,HARISHNAGAR HALT,HRSR,,,SDAH,ER,NADIA,WEST BENGAL,হরিশনগর,,Sealdah railway division,Ranaghat–Gede branch line,23.469777/88.777989
+268,HOGLA H,HGA,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,হোগলা,,Sealdah railway division,Sealdah–Namkhana line,22.255044/88.452384
+269,JALAKHALI HALT,JKL,,,SDAH,ER,NADIA,WEST BENGAL,জালাল খালি হল্ট,1905,Sealdah railway division,Ranaghat–Lalgola line,23.347508/88.513628
+270,KAJIPARA,KZPR,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,কাজীপাড়া,1962,Sealdah railway division,Barasat–Hasnabad branch line,22.7226812/88.5083614
+271,KANKRA MIRZANAGAR,KMZA,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,কাঁকড়া মির্জানগর,1962,Sealdah railway division,Barasat–Hasnabad branch line,22.6583709/88.7218297
+272,KARANJALI HALT,KNJI,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,করঞ্জলী,,Sealdah railway division,Sealdah–Namkhana line,22.0353/88.245999
+273,KAREA-KADAMBAGACHI,KBGH,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,কড়েয়া কদম্বগাছি,1962,Sealdah railway division,Barasat–Hasnabad branch line,22.7046685/88.5350118
+274,KHIDIRPUR,KIRP,,,SDAH,ER,KOLKATA,WEST BENGAL,খিদিরপুর,1995,Sealdah railway division,Kolkata Circular Railway,22.5364091/88.3158077
+275,KRISHNAMOHAN HALT,KRXM,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,কৃষ্ণমোহন,,Sealdah railway division,Sealdah–Namkhana line,22.330258/88.449759
+276,KULPI F,KLW,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,কুলপি,,Sealdah railway division,Sealdah–Namkhana line,22.076525/88.256019
+277,LABUTALA HALT,LBTL,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,লেবুতলা,1962,Sealdah railway division,Barasat–Hasnabad branch line,22.6666962/88.63994
+278,MADHABNAGAR HALT,MDGB,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,মাধবনগর,,Sealdah railway division,Sealdah–Namkhana line,21.9388861/88.2193741
+279,MADHABPUR H,MDBP,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,মাধবপুর,,Sealdah railway division,Sealdah–Namkhana line,22.119207/88.347323
+280,MADHYAMPUR,MPN,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,মধ্যমপুর,1962,Sealdah railway division,Barasat–Hasnabad branch line,22.6203343/88.8965446
+281,MATLA,MATL,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,মাতলা হল্ট,,Sealdah railway division,Sonarpur–Canning branch line,22.3330918/88.6302602
+282,MATNIA ANANTAPU,MNAP,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,,,,,
+283,MAYURHAT HALT,MYHT,,,SDAH,ER,NADIA,WEST BENGAL,ময়ুরহাট,,Sealdah railway division,Ranaghat–Gede branch line,23.363017/88.661013
+284,NABA RAYNAGAR H,NBRN,,,SDAH,ER,NADIA,WEST BENGAL,নব রায়নগর,1884,Sealdah railway division,Ranaghat–Bangaon branch line,23.1487357/88.6035937
+285,NARENDRAPUR HALT,NRPR,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,নরেন্দ্রপুর,,Sealdah railway division,Sealdah–Namkhana line,22.45416/88.41838
+286,NEW BALARAMPUR H,NBPH,,,SDAH,ER,MURSHIDABAD,WEST BENGAL,নিউ বলরামপুর হল্ট,,Sealdah railway division,Ranaghat–Lalgola line,24.0491/88.2471
+287,NIMDANRI,NMDR,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,নিমদাঁড়ি,1962,Sealdah railway division,Barasat–Hasnabad branch line,22.6099581/88.9042039
+288,NISCHINDAPUR,NCP,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,নিশ্চিন্তপুর,,Sealdah railway division,Sealdah–Namkhana line,21.973426/88.214325
+289,NISCHINDAPUR MARKET,NCPM,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,নিশ্চিন্তপুর মার্কেট,,Sealdah railway division,Sealdah–Namkhana line,21.987443/88.217105
+290,PANCHBERIA H,PNCB,,,SDAH,ER,NADIA,WEST BENGAL,পাঁচবেড়িয়া,,Sealdah railway division,Ranaghat–Gede branch line,23.221017/88.599435
+291,PIRTALA,PRTL,,,SDAH,ER,MURSHIDABAD,WEST BENGAL,পীরতলা,,Sealdah railway division,Ranaghat–Lalgola line,24.359325/88.280583
+292,RE- MOUNT ROAD,RMTR,,,SDAH,ER,KOLKATA,WEST BENGAL,রিমাউন্ট রোড,1995,Sealdah railway division,Kolkata Circular Railway,22.5258879/88.3167062
+293,SANHATI H,SNHT,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,সংহতি হল্ট,1906,Sealdah railway division,Sealdah–Bangaon line,22.8458756/88.704595
+294,SATBERIA H,STBB,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,সাতবেড়িয়া,1884,Sealdah railway division,Ranaghat–Bangaon branch line,23.0477587/88.791402
+295,SHANTINAGAR HAL,SNTR,,,SDAH,ER,NADIA,WEST BENGAL,,,,,
+296,SIR GURUDASS BANERJE,SGBA,,,SDAH,ER,KOLKATA,WEST BENGAL,স্যার গুরুদাস ব্যানার্জী হল্ট,1995,Sealdah railway division,Kolkata Circular Railway,22.5741753/88.3850451
+297,SIRAJNAGAR H,SRJN,,,SDAH,ER,MURSHIDABAD,WEST BENGAL,সিরাজনগর হল্ট,,Sealdah railway division,Ranaghat–Lalgola line,23.818591/88.27076
+298,SOVABAZAR-AHIRITOLA,SOLA,,,SDAH,ER,KOLKATA,WEST BENGAL,শোভাবাজার আহিরীটোলা,1984,Sealdah railway division,Kolkata Circular Railway,22.5975289/88.3549336
+299,SUBARNAMRIGI H,SBNM,,,SDAH,ER,MURSHIDABAD,WEST BENGAL,সুবর্ণমৃগী,,Sealdah railway division,Ranaghat–Lalgola line,24.27321/88.292124
+300,TARAK NAGAR H,TNX,,,SDAH,ER,NADIA,WEST BENGAL,তারকনগর,,Sealdah railway division,Ranaghat–Gede branch line,23.38018/88.680184
+301,UDAYRAMPUR H,URP,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,উদয়রামপুর,,Sealdah railway division,Sealdah–Namkhana line,22.100085/88.273732
+302,UKILERHAT HALT,UKLR,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,উকিলেরহাট,,Sealdah railway division,Sealdah–Namkhana line,21.824712/88.230351
+303,UTTAR RADHA NAGAR HA,UTN,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,উত্তর রাধানগর,,Sealdah railway division,Baruipur–Diamond Harbour branch line,22.269458/88.383365
+304,MAHESHGANJ H,MSGJ,,,SDAH,ER,NADIA,WEST BENGAL,মহেশগঞ্জ,,Sealdah railway division,,23.416133/88.400006
+305,CHITPUR,CP,,,SDAH,ER,KOLKATA,WEST BENGAL,,,,,
+306,COSSIPORE ROAD,CED,,,SDAH,ER,KOLKATA,WEST BENGAL,,,,,
+307,KANKURGACHHI ROAD JN,KGK,,,SDAH,ER,KOLKATA,WEST BENGAL,,,,,
+308,KIDDERPORE DOCKS,C,,,SDAH,ER,KOLKATA,WEST BENGAL,,,,,
+309,NASHIPUR ROAD H,NSO,,,SDAH,ER,MURSHIDABAD,WEST BENGAL,,,,,
+310,SEALDAH,SDAH,,,SDAH,ER,KOLKATA,WEST BENGAL,শিয়ালদহ রেলওয়ে স্টেশন,1862,Sealdah railway division,Sealdah–Ranaghat line,22.5680/88.3711
+311,KOLKATA,KOAA,,,SDAH,ER,KOLKATA,WEST BENGAL,কলকাতা,,Sealdah railway division,Kolkata Circular Railway,22.6012775/88.3841474
+312,NAIHATI JN.,NH,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,নৈহাটি জংশন,1862,Sealdah railway division,Sealdah–Ranaghat–Gede line-Naihati–Bandel branch line,22.8871/88.4175
+313,BERHAMPORE COURT,BPC,,,SDAH,ER,MURSHIDABAD,WEST BENGAL,বহরমপুর কোর্ট,,Sealdah railway division,Ranaghat–Lalgola line,24.0890841/88.263642
+314,BELDANGA,BEB,,,SDAH,ER,MURSHIDABAD,WEST BENGAL,বেলডাঙা,,Sealdah railway division,Ranaghat–Lalgola line,23.9320594/88.2429681
+315,BETHUADAHARI,BTY,,,SDAH,ER,NADIA,WEST BENGAL,বেথুয়াডহরী,1905,Sealdah railway division,Ranaghat–Lalgola line,23.611/88.3846
+316,BHAGWANGOLA,BQG,,,SDAH,ER,MURSHIDABAD,WEST BENGAL,ভগবানগোলা,,Sealdah railway division,Ranaghat–Lalgola line,24.333178/88.309816
+317,COSSIMBAZAR,CSZ,,,SDAH,ER,MURSHIDABAD,WEST BENGAL,কাশিমবাজার,,Sealdah railway division,Ranaghat–Lalgola line,24.1222/88.267
+318,DEBAGRAM,DEB,,,SDAH,ER,NADIA,WEST BENGAL,দেবগ্রাম,1905,Sealdah railway division,Ranaghat–Lalgola line,23.685277/88.306807
+319,JIAGANJ,JJG,,,SDAH,ER,MURSHIDABAD,WEST BENGAL,জিয়াগঞ্জ,,Sealdah railway division,Ranaghat–Lalgola line,24.244268/88.27698
+320,KRISHNAPUR,KRP,,,SDAH,ER,MURSHIDABAD,WEST BENGAL,কৃষ্ণপুর,,Sealdah railway division,Ranaghat–Lalgola line,24.406331/88.256132
+321,LALGOLA,LGL,,,SDAH,ER,MURSHIDABAD,WEST BENGAL,লালগোলা,,Sealdah railway division,Ranaghat–Lalgola line,24.421152/88.257513
+322,MURSHIDABAD,MBB,,,SDAH,ER,MURSHIDABAD,WEST BENGAL,মুর্শিদাবাদ জংশন,,Sealdah railway division,Ranaghat–Lalgola line,24.176964/88.281598
+323,PLASSEY,PLY,,,SDAH,ER,MURSHIDABAD,WEST BENGAL,পলাশী,1905,Sealdah railway division,Ranaghat–Lalgola line,23.7782/88.2848
+324,BAHADURPUR,BPD,,,SDAH,ER,NADIA,WEST BENGAL,বাহাদুরপুর,1905,Sealdah railway division,Ranaghat–Lalgola line,23.438839/88.464063
+325,BHABTA,BFT,,,SDAH,ER,MURSHIDABAD,WEST BENGAL,ভাবতা,,Sealdah railway division,Ranaghat–Lalgola line,23.9869677/88.241584
+326,DHUBULIA,DHU,,,SDAH,ER,NADIA,WEST BENGAL,ধুবুলিয়া,1905,Sealdah railway division,Ranaghat–Lalgola line,23.483546/88.441145
+327,MURAGACHHA,MGM,,,SDAH,ER,NADIA,WEST BENGAL,মুড়াগাছা,1905,Sealdah railway division,Ranaghat–Lalgola line,23.529636/88.421243
+328,NABADWIP GHAT F,NDF,,,SDAH,ER,NADIA,WEST BENGAL,নবদ্বীপ ঘাট,,Sealdah railway division,,23.411641/88.3849186
+329,PAGLA CHANDI,PCX,,,SDAH,ER,NADIA,WEST BENGAL,পাগলা চণ্ডী,1905,Sealdah railway division,Ranaghat–Lalgola line,23.743195/88.303969
+330,REJINAGAR,REJ,,,SDAH,ER,MURSHIDABAD,WEST BENGAL,রেজিনগর,,Sealdah railway division,Ranaghat–Lalgola line,23.85009/88.259255
+331,SARGACHHI,SGV,,,SDAH,ER,MURSHIDABAD,WEST BENGAL,সারগাছি,,Sealdah railway division,Ranaghat–Lalgola line,24.01772/88.244037
+332,SONADANGA,SVH,,,SDAH,ER,NADIA,WEST BENGAL,সোনাডাঙ্গা,1905,Sealdah railway division,Ranaghat–Lalgola line,23.636393/88.354092
+333,BARASAT JN.,BT,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,বারাসাত জংশন,1906,Sealdah railway division,Sealdah–Bangaon line-Barasat–Hasnabad branch line,22.72412/88.48373
+334,BARRACKPORE,BP,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,ব্যারাকপুর,1862,Sealdah railway division,Sealdah–Ranaghat–Gede line,22.7603258/88.3710498
+335,BARUIPUR JN.,BRP,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,বারুইপুর জংশন,,Sealdah railway division,Sealdah–Namkhana line-Baruipur–Diamond Harbour branch line,22.3658265/88.4310842
+336,BELGHARIA,BLH,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,বেলঘরিয়া,1862,Sealdah railway division,Sealdah–Ranaghat–Gede line,22.66136/88.38922
+337,BIDHANNAGAR ROAD,BNXR,,,SDAH,ER,KOLKATA,WEST BENGAL,বিধাননগর রোড,1862,Sealdah railway division,Sealdah–Ranaghat–Gede line-Kolkata Circular Railway,22.592432/88.391045
+338,CHAKDAHA,CDH,,,SDAH,ER,NADIA,WEST BENGAL,চাকদহ,1862,Sealdah railway division,Sealdah–Ranaghat–Gede line,23.078406/88.529672
+339,DUMDUM JN.,DDJ,,,SDAH,ER,KOLKATA,WEST BENGAL,দমদম জংশন,1862,Kolkata Municipal Corporation,Sealdah railway division,22.6209/88.3933
+340,HABRA,HB,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,হাবরা,1906,Sealdah railway division,Sealdah–Bangaon line,22.840869/88.657583
+341,KHARDAHA,KDH,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,খড়দা,1862,Sealdah railway division,Sealdah–Ranaghat–Gede line,22.7248499/88.3777096
+342,KRISHNANAGAR CITY JN,KNJ,,,SDAH,ER,NADIA,WEST BENGAL,কৃষ্ণনগর সিটি জংশন,1905,Sealdah railway division,Ranaghat–Lalgola line-Kalinarayanpur–Shantipur–Krishnanagar branch line,23.388714/88.493636
+343,MADHYAMGRAM,MMG,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,মধ্যমগ্রাম,1906,Sealdah railway division,Sealdah–Bangaon line,22.6946/88.4528
+344,RANAGHAT JN.,RHA,,,SDAH,ER,NADIA,WEST BENGAL,রানাঘাট জংশন,1862,Sealdah railway division,Sealdah–Ranaghat–Gede line-Ranaghat–Lalgola line-Ranaghat–Gede branch line-Ranaghat–Bangaon branch line,23.1741/88.5688
+345,SHYAMNAGAR,SNR,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,শ্যামনগর,1862,Sealdah railway division,Sealdah–Ranaghat–Gede line,22.8285164/88.3801893
+346,SODEPUR,SEP,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,সোদপুর,1862,Sealdah railway division,Sealdah–Ranaghat–Gede line,22.6996398/88.3822968
+347,SONARPUR JN.,SPR,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,সোনারপুর জংশন,,Sealdah railway division,Sealdah–Namkhana line-Sonarpur–Canning branch line,22.4427478/88.4309013
+348,SUBHAS GRAM,SBGR,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,সুভাষগ্রাম,,Sealdah railway division,Sealdah–Namkhana line,22.413546/88.433753
+349,AGARPARA,AGP,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,আগরপাড়া,1862,Sealdah railway division,Sealdah–Ranaghat–Gede line,22.6828782/88.3853645
+350,AKRA,AKRA,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,আকড়া,,Sealdah railway division,Ballygunge–Budge Budge branch line,22.5147576/88.2492749
+351,ARANGHATA,AG,,,SDAH,ER,NADIA,WEST BENGAL,আড়ংঘাটা,,Sealdah railway division,Ranaghat–Gede branch line,23.242037/88.613551
+352,ASHOKNAGAR ROAD,ASKR,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,অশোকনগর রোড,1906,Sealdah railway division,Sealdah–Bangaon line,22.8265126/88.6285932
+353,BADKULLA,BDZ,,,SDAH,ER,NADIA,WEST BENGAL,বাদকুল্লা,1905,Sealdah railway division,Ranaghat–Lalgola line,23.3046657/88.526557
+354,BAGH BAZAR,BBR,,,SDAH,ER,KOLKATA,WEST BENGAL,বাগবাজার,1984,Sealdah railway division,Kolkata Circular Railway,22.6049361/88.3651051
+355,BAGHA JATIN F,BGJT,,,SDAH,ER,KOLKATA,WEST BENGAL,বাঘাযতীন,,Sealdah railway division,Sealdah–Namkhana line,22.4828516/88.3866633
+356,BAGULA,BGL,,,SDAH,ER,NADIA,WEST BENGAL,বগুলা,,Sealdah railway division,Ranaghat–Gede branch line,23.33546471/88.64640372
+357,BAHARU F,BARU,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,বহরু,,Sealdah railway division,Sealdah–Namkhana line,22.205278/88.44446
+358,BALLY GHAT,BLYG,,,SDAH,ER,HOOGHLY,WEST BENGAL,বালিঘাট,,Sealdah railway division,Chord link line,22.6524114/88.3479092
+359,BALLYGUNGE JN.,BLN,,,SDAH,ER,KOLKATA,WEST BENGAL,বালিগঞ্জ জংশন,,Sealdah railway division,Sealdah–Namkhana line-Kolkata Circular Railway-Ballygunge–Budge Budge branch line,22.5191616/88.3721923
+360,BAMANGACHHI,BMG,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,বামনগাছি,1906,Sealdah railway division,Sealdah–Bangaon line,22.7490042/88.5099732
+361,BANGAON JN.,BNJ,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,বনগাঁ জংশন,1882,Sealdah railway division,Sealdah–Bangaon line-Ranaghat–Bangaon branch line,23.0305/88.8329
+362,BANPUR,BPN,,,SDAH,ER,NADIA,WEST BENGAL,বানপুর,,Sealdah railway division,Ranaghat–Gede branch line,23.45186861/88.76185515
+363,BARANAGAR ROAD,BARN,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,বরানগর রোড,,Sealdah railway division,Chord link line,22.6534856/88.3788583
+364,BARRA BAZAR,BZB,,,SDAH,ER,KOLKATA,WEST BENGAL,বড় বাজার,1984,Sealdah railway division,Kolkata Circular Railway,22.590188/88.3512418
+365,BASIRHAT,BSHT,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,বসিরহাট,1962,Sealdah railway division,Barasat–Hasnabad branch line,22.6501784/88.8692759
+366,BASULDANGA,BSD,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,বাসুলডাঙা,,Sealdah railway division,Baruipur–Diamond Harbour branch line,22.20374787/88.23393947
+367,BENOY BADAL DINESH B,BBDB,,,SDAH,ER,KOLKATA,WEST BENGAL,বি.বা.দী বাগ,1984,Sealdah railway division,Kolkata Circular Railway,22.5768421/88.3466282
+368,BHASILA,BSLA,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,ভাসিলা,1962,Sealdah railway division,Barasat–Hasnabad branch line,22.6652713/88.658274
+369,BIDYADHARPUR F,BDYP,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,বিদ্যাধরপুর,,Sealdah railway division,Sonarpur–Canning branch line,22.425122/88.452872
+370,BIRA,BIRA,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,,,,,
+371,BIRATI,BBT,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,বিরাটি,1906,Sealdah railway division,Sealdah–Bangaon line,22.6642156/88.42739
+372,BIRNAGAR,BIJ,,,SDAH,ER,NADIA,WEST BENGAL,বীরনগর,1905,Sealdah railway division,Ranaghat–Lalgola line,23.2358754/88.551252
+373,BISHARPARA-KODALIYA,BRPK,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,বিশরপাড়া কোদালিয়া,2008,Sealdah railway division,Sealdah–Bangaon line,22.6766538/88.43492
+374,BRACE BRIDGE,BRJ,,,SDAH,ER,KOLKATA,WEST BENGAL,ব্রেসব্রীজ,,Sealdah railway division,Ballygunge–Budge Budge branch line,22.5179206/88.3011366
+375,BUDGE-BUDGE,BGB,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,বজবজ,,Sealdah railway division,Ballygunge–Budge Budge branch line,22.4928895/88.1948585
+376,CANNING,CG,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,ক্যানিং,,Sealdah railway division,Sonarpur–Canning branch line,22.313734/88.668119
+377,CHAMPAHATI,CHT,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,চাম্পাহাটি,,Sealdah railway division,Sonarpur–Canning branch line,22.402193/88.493624
+378,CHAMPAPUKUR,CQR,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,চম্পাপুকুর,1962,Sealdah railway division,Barasat–Hasnabad branch line,22.6563508/88.8077644
+379,CHANDPARA,CDP,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,চাঁদপাড়া,1906,Sealdah railway division,Sealdah–Bangaon line,22.9616731/88.7851954
+380,DAKHINESWAR,DAKE,,,SDAH,ER,KOLKATA,WEST BENGAL,দক্ষিণেশ্বর,,Sealdah railway division,Chord link line,22.6534841/88.3636352
+381,DAKSHIN BARASAT,DBT,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,দক্ষিণ বারাসাত,,Sealdah railway division,Sealdah–Namkhana line,22.226102/88.452286
+382,DAKSHIN DURGAPUR HAL,DKDP,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,দক্ষিণ দূর্গাপুর,,Sealdah railway division,Baruipur–Diamond Harbour branch line,22.32502454322961/88.40583714351993
+383,DEULA,D,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,দেউলা,,Sealdah railway division,Baruipur–Diamond Harbour branch line,22.214924/88.281483
+384,DHAKURIA F,DHK,,,SDAH,ER,KOLKATA,WEST BENGAL,ঢাকুরিয়া,,Sealdah railway division,Sealdah–Namkhana line,22.5094085/88.371185
+385,DHAMUA,DMU,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,ধামুয়া,,Sealdah railway division,Baruipur–Diamond Harbour branch line,22.290179/88.392178
+386,DHAPDHAPI,DPDP,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,ধপধপি,,Sealdah railway division,Sealdah–Namkhana line,22.315994/88.459855
+387,DIAMOND HARBOUR,DH,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,ডায়মন্ড হারবার,,Sealdah railway division,Baruipur–Diamond Harbour branch line,22.192571/88.191042
+388,DUMDUM CANTONMENT,DDC,,,SDAH,ER,KOLKATA,WEST BENGAL,দমদম ক্যান্ট,1883,Sealdah railway division,Sealdah–Bangaon line,22.6364899/88.4120228
+389,DURGANAGAR F,DGNR,,,SDAH,ER,KOLKATA,WEST BENGAL,দুর্গানগর,1883,Sealdah railway division,Sealdah–Bangaon line,22.6505/88.41921
+390,DUTTAPUKUR,DTK,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,দত্তপুকুর,1906,Sealdah railway division,Sealdah–Bangaon line,22.7684449/88.5395848
+391,EDEN GARDEN,EDG,,,SDAH,ER,KOLKATA,WEST BENGAL,ইডেন গার্ডেন্স,1984,Sealdah railway division,Kolkata Circular Railway,22.5639/88.3383
+392,GANGNAPUR F,GGP,,,SDAH,ER,NADIA,WEST BENGAL,গাংনাপুর,1884,Sealdah railway division,Ranaghat–Bangaon branch line,23.1316434/88.6399055
+393,GARIA F,GIA,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,গড়িয়া,,Sealdah railway division,Sealdah–Namkhana line,22.4661325/88.4051064
+394,GEDE,GEDE,,,SDAH,ER,NADIA,WEST BENGAL,গেদে,1862,Sealdah railway division,Ranaghat–Gede branch line-Chilahati–Parbatipur–Santahar–Darshana line,23.491197/88.786737
+395,GHUTIARI SHARIFF,GOF,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,ঘুটিয়ারী শরীফ,,Sealdah railway division,Sonarpur–Canning branch line,22.367665/88.552115
+396,GOBORDANGA,GBG,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,গোবরডাঙা,1906,Sealdah railway division,Sealdah–Bangaon line,22.8800723/88.7610179
+397,GOCHARAN,GCN,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,গোচরণ,,Sealdah railway division,Sealdah–Namkhana line,22.277738/88.45837
+398,GOPALNAGAR F,GN,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,গোপালনগর,1884,Sealdah railway division,Ranaghat–Bangaon branch line,23.0625764/88.7456596
+399,GUMA,GUMA,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,গুমা,1906,Sealdah railway division,Sealdah–Bangaon line,22.8085822/88.6008927
+400,GURUDAS NAGAR,GURN,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,গুরুদাসনগর,,Sealdah railway division,Baruipur–Diamond Harbour branch line,22.199708/88.215793
+401,HABIBPUR,HBE,,,SDAH,ER,NADIA,WEST BENGAL,হবিবপুর,,Sealdah railway division,Kalinarayanpur–Shantipur–Krishnanagar branch line,23.211967/88.538423
+402,HALISHAHAR,HLR,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,হালিসহর,1862,Sealdah railway division,Sealdah–Ranaghat–Gede line,22.9209824/88.4370216
+403,HARUA ROAD,HRO,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,হাড়োয়া রোড,1962,Sealdah railway division,Barasat–Hasnabad branch line,22.6619333/88.69057
+404,HASNABAD JN,HNB,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,হাসনাবাদ,1962,Sealdah railway division,Barasat–Hasnabad branch line,22.5712/88.9134
+405,HOTAR,HT,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,হোটর,,Sealdah railway division,Baruipur–Diamond Harbour branch line,22.308541/88.399008
+406,HRIDAYPUR,HHR,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,হৃদয়পুর,1906,Sealdah railway division,Sealdah–Bangaon line,22.711098/88.470282
+407,ICHHAPUR,IP,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,ইচ্ছাপুর,1862,Sealdah railway division,Sealdah–Ranaghat–Gede line,22.7998264/88.3739103
+408,JADABPUR,JDP,,,SDAH,ER,KOLKATA,WEST BENGAL,যাদবপুর,,Sealdah railway division,Sealdah–Namkhana line,22.4951079/88.3749813
+409,JAGHDDAL,JGDL,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,জগদ্দল,1862,Sealdah railway division,Sealdah–Ranaghat–Gede line,22.8516789/88.3954065
+410,JAYANAGAR MAJILPUR H,JNM,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,জয়নগর মজিলপুর,1882,Sealdah railway division,Sealdah–Namkhana line,22.1695702/88.4161432
+411,KAKDWIP,KWDP,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,কাকদ্বীপ,,Sealdah railway division,Sealdah–Namkhana line,21.879938/88.193944
+412,KALIKAPUR F,KLKR,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,কালিকাপুর,,Sealdah railway division,Sonarpur–Canning branch line,22.412606/88.47503
+413,KALINARAYANPUR JN.,KLNP,,,SDAH,ER,NADIA,WEST BENGAL,কালীনারায়ণপুর জংশন,1905,Sealdah railway division,Ranaghat–Lalgola line-Kalinarayanpur–Shantipur–Krishnanagar branch line,23.206506/88.573216
+414,KALYANI GHOSHPARA,KLYG,,,SDAH,ER,NADIA,WEST BENGAL,কল্যাণী ঘোষপাড়া,1979,Sealdah railway division,Kalyani Simanta branch line,22.9817656/88.4397711
+415,KALYANI JN,KYI,,,SDAH,ER,NADIA,WEST BENGAL,কল্যাণী,1862,Sealdah railway division,Sealdah–Ranaghat–Gede line-Kalyani Simanta branch line,22.9692/88.4675
+416,KALYANI SILPANCHAL,KLYS,,,SDAH,ER,NADIA,WEST BENGAL,কল্যাণী শিল্পাঞ্চল,1979,Sealdah railway division,Kalyani Simanta branch line,22.9763161/88.4564373
+417,KALYANI SIMANTA,KLYM,,,SDAH,ER,NADIA,WEST BENGAL,কল্যাণী সীমান্ত,1981,Sealdah railway division,Kalyani Simanta branch line,22.9876425/88.4279714
+418,KALYANPUR,KYP,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,কল্যানপুর,,Sealdah railway division,Baruipur–Diamond Harbour branch line,22.343456/88.414597
+419,KANCHRAPARA,KPA,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,কাঁচড়াপাড়া,1863,Sealdah railway division,Sealdah–Ranaghat–Gede line,22.9462392/88.4513783
+420,KANKINARA,KNR,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,কাঁকিনাড়া,1862,Sealdah railway division,Sealdah–Ranaghat–Gede line,22.8662/88.4052
+421,KASHINAGAR HALT,KHGR,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,কাশীনগর,,Sealdah railway division,Sealdah–Namkhana line,21.90539421/88.20132346
+422,KomagataMaruBGB,KBGB,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,,,,,
+423,LAKE GARDEN F,LKF,,,SDAH,ER,KOLKATA,WEST BENGAL,লেক গার্ডেন্স,,Kolkata Municipal Corporation,Sealdah railway division,22.508/88.3531
+424,LAKSHMIKANTAPUR,LKPR,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,লক্ষীকান্তপুর,,Sealdah railway division,Sealdah–Namkhana line,22.1101526/88.3222651
+425,MACHLANDAPUR,MSL,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,মছলন্দপুর,1906,Sealdah railway division,Sealdah–Bangaon line,22.8565/88.7451
+426,MADANPUR,MPJ,,,SDAH,ER,NADIA,WEST BENGAL,মদনপুর,1862,Sealdah railway division,Sealdah–Ranaghat–Gede line,23.005928/88.489717
+427,MAGRA HAT,MGT,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,মগরাহাট,,Sealdah railway division,Baruipur–Diamond Harbour branch line,22.242111/88.372713
+428,MAJHDIA,MIJ,,,SDAH,ER,NADIA,WEST BENGAL,মাঝদিয়া,,Sealdah railway division,Ranaghat–Gede branch line,23.414562/88.719031
+429,MAJHERGRAM,MAJ,,,SDAH,ER,NADIA,WEST BENGAL,মাঝেরগ্রাম,1884,Sealdah railway division,Ranaghat–Bangaon branch line,23.1091365/88.6881047
+430,MAJHERHAT,MJT,,,SDAH,ER,KOLKATA,WEST BENGAL,মাঝেরহাট,,Sealdah railway division,Ballygunge–Budge Budge branch line-Kolkata Circular Railway,22.5190536/88.3221307
+431,MALATIPUR,MPE,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,মালতীপুর,,Sealdah railway division,Barasat–Hasnabad branch line,22.6516782/88.7626022
+432,MALLIKPUR,MAK,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,মল্লিকপুর,,Sealdah railway division,Sealdah–Namkhana line,22.396985/88.433315
+433,MATHURAPUR ROAD,MPRD,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,মথুরাপুর রোড,,Sealdah railway division,Sealdah–Namkhana line,22.140587/88.390923
+434,NAMKHANA,NMKA,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,নামখানা,,Sealdah railway division,Sealdah–Namkhana line,21.771775/88.23907
+435,NANGI,NAI,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,নুঙ্গী,,Sealdah railway division,Ballygunge–Budge Budge branch line,22.5002134/88.2233537
+436,NETRA,NTA,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,নেতড়া,,Sealdah railway division,Baruipur–Diamond Harbour branch line,22.208105/88.254095
+437,NEW ALIPORE (CALCUTT,NACC,,,SDAH,ER,KOLKATA,WEST BENGAL,নিউ আলিপুর,,Sealdah railway division,Ballygunge–Budge Budge branch line-Kolkata Circular Railway,22.5103/88.3354
+438,NEW BARRACKPUR,NBE,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,নব বারাকপুর,1906,Sealdah railway division,Sealdah–Bangaon line,22.6868/88.4446
+439,NEW GARIA,NGRI,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,নিউ গড়িয়া,,Kolkata Municipal Corporation,Sealdah railway division,22.47284245/88.39775795
+440,PALPARA,PXR,,,SDAH,ER,NADIA,WEST BENGAL,পালপাড়া,1862,Sealdah railway division,Sealdah–Ranaghat–Gede line,23.059458/88.520722
+441,PALTA,PTF,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,পলতা,1862,Sealdah railway division,Sealdah–Ranaghat–Gede line,22.7826288/88.3702748
+442,PARK CIRCUS,PQS,,,SDAH,ER,KOLKATA,WEST BENGAL,পার্ক সার্কাস,,Sealdah railway division,Sealdah–Namkhana line-Kolkata Circular Railway,22.5405657/88.3738598
+443,PATIPUKUR,PTKR,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,পাতিপুকুর,1984,Sealdah railway division,Kolkata Circular Railway,22.6065505/88.3952451
+444,PAYRADANGA,PDX,,,SDAH,ER,NADIA,WEST BENGAL,পায়রাডাঙ্গা,1862,Sealdah railway division,Sealdah–Ranaghat–Gede line,23.128661/88.545481
+445,PHULIA,FLU,,,SDAH,ER,NADIA,WEST BENGAL,ফুলিয়া,,Sealdah railway division,Kalinarayanpur–Shantipur–Krishnanagar branch line,23.229897/88.49634
+446,PIALI,PLF,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,পিয়ালী,,Sealdah railway division,Sonarpur–Canning branch line,22.388254/88.517441
+447,PRINCEPGHAT,PPGT,,,SDAH,ER,KOLKATA,WEST BENGAL,প্রিন্সেপ ঘাট,1984,Sealdah railway division,Kolkata Circular Railway,22.5565732/88.3314178
+448,SANGRAMPUR,SNU,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,সংগ্রামপুর,,Sealdah railway division,Baruipur–Diamond Harbour branch line,22.224929/88.32876
+449,SANTOSHPUR F,SSP,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,সন্তোষপুর,,Sealdah railway division,Ballygunge–Budge Budge branch line,22.5240776/88.2710617
+450,SHANTIPUR,STB,,,SDAH,ER,NADIA,WEST BENGAL,শান্তিপুর জংশন,,Sealdah railway division,Kalinarayanpur–Shantipur–Krishnanagar branch line,23.262661/88.435028
+451,SHASAN ROAD F,SSRD,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,শাসন রোড,,Sealdah railway division,Sealdah–Namkhana line,22.34654/88.434523
+452,SIMURALI,SMX,,,SDAH,ER,NADIA,WEST BENGAL,শিমুরালি,1862,Sealdah railway division,Sealdah–Ranaghat–Gede line,23.041337/88.510164
+453,SONDALIA,SXC,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,সণ্ডালিয়া,1962,Sealdah railway division,Barasat–Hasnabad branch line,22.6818162/88.5823002
+454,SURJYAPUR F,SJPR,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,সূর্যপুর,,Sealdah railway division,Sealdah–Namkhana line,22.293128/88.466557
+455,TAHERPUR,THP,,,SDAH,ER,NADIA,WEST BENGAL,তাহেরপুর,1905,Sealdah railway division,Ranaghat–Lalgola line,23.259379/88.543119
+456,TAKI ROAD,TKF,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,টাকি রোড,1962,Sealdah railway division,Barasat–Hasnabad branch line,22.5879409/88.9158609
+457,TALA,TALA,,,SDAH,ER,KOLKATA,WEST BENGAL,টালা,1984,Sealdah railway division,Kolkata Circular Railway,22.6061/88.3789
+458,TALDI,TLX,,,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,তালদি,,Sealdah railway division,Sonarpur–Canning branch line,22.343647/88.608759
+459,THAKURNAGAR,TKNR,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,ঠাকুরনগর,1906,Sealdah railway division,Sealdah–Bangaon line,22.92444444/88.77777778
+460,TITAGARH,TGH,,,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,টিটাগড়,1862,Sealdah railway division,Sealdah–Ranaghat–Gede line,22.7411261/88.3745843
+461,TOLLYGANJ,TLG,,,SDAH,ER,KOLKATA,WEST BENGAL,টালিগঞ্জ,,Kolkata Municipal Corporation,Sealdah railway division,22.5077/88.3476
+462,ABUTARA HALT,ABW,,,APDJ,NFR,COOCHBEHAR,WEST BENGAL,আবুতারা হল্ট,,Alipurduar railway division,Alipurduar–Bamanhat branch line,26.0601853/89.5290945
+463,ALIPUR DUAR COURT,APDC,,,APDJ,NFR,ALIPURDUAR,WEST BENGAL,আলিপুরদুয়ার কোর্ট,,Alipurduar railway division,Alipurduar–Bamanhat branch line,26.499255/89.526808
+464,BHETAGURI,VTG,,,APDJ,NFR,COOCHBEHAR,WEST BENGAL,ভেটাগুড়ী,,Alipurduar railway division,Alipurduar–Bamanhat branch line,26.2013029/89.4802153
+465,DINHATA COLLEGE HALT,DCH,,,APDJ,NFR,COOCHBEHAR,WEST BENGAL,দিনহাটা কলেজ হল্ট,,Alipurduar railway division,Alipurduar–Bamanhat branch line,26.1457141/89.4652693
+466,FALIMARI,FLM,,,APDJ,NFR,COOCHBEHAR,WEST BENGAL,ফলিমারী,,Alipurduar railway division,Alipurduar–Bamanhat branch line,26.0615389/89.4734122
+467,GAROPARA HALT,GRU,,,APDJ,NFR,ALIPURDUAR,WEST BENGAL,গারোপাড়া,,Alipurduar railway division,New Jalpaiguri–New Mal–Alipurduar–Samuktala Road line,26.6574376742/89.4852616998
+468,RAJA BHAT KHAWA,RVK,,,APDJ,NFR,ALIPURDUAR,WEST BENGAL,রাজাভাতখাওয়া,,Alipurduar railway division,New Jalpaiguri–New Mal–Alipurduar–Samuktala Road line,26.6201438112/89.528605351
+469,NEW ALIPURDUAR,NOQ,,,APDJ,NFR,ALIPURDUAR,WEST BENGAL,নিউ আলিপুরদুয়ার,,Alipurduar railway division,New Jalpaiguri–New Bongaigaon section,26.48572/89.541398
+470,NEW COOCH BEHAR,NCB,,,APDJ,NFR,COOCHBEHAR,WEST BENGAL,নিউ কোচবিহার জংশন,1966,Alipurduar railway division,New Jalpaiguri–New Bongaigaon section-Alipurduar–Bamanhat branch line-New Cooch Behar–Dhubri branch line-New Changrabandha–New Cooch Behar branch line,26.35291/89.46955
+471,ALIPUR DUAR JN.,APDJ,,,APDJ,NFR,ALIPURDUAR,WEST BENGAL,আলিপুরদুয়ার জংশন,,Alipurduar railway division,New Jalpaiguri–New Mal–Alipurduar–Samuktala Road line-Alipurduar–Bamanhat branch line,26.523279/89.534048
+472,DHUPGURI,DQG,,,APDJ,NFR,JALPAIGURI,WEST BENGAL,ধুপগুড়ি,,Alipurduar railway division,New Jalpaiguri–New Bongaigaon section,26.573532/88.994973
+473,BINNAGURI,BNV,,,APDJ,NFR,JALPAIGURI,WEST BENGAL,বিন্নাগুড়ি জংশন,,Alipurduar railway division,New Jalpaiguri–New Mal–Alipurduar–Samuktala Road line,26.7470883/89.0523909
+474,DALGAON,DLO,,,APDJ,NFR,ALIPURDUAR,WEST BENGAL,দলগাঁও,,Alipurduar railway division,New Jalpaiguri–New Mal–Alipurduar–Samuktala Road line,26.715384/89.136244
+475,DINHATA,DHH,,,APDJ,NFR,COOCHBEHAR,WEST BENGAL,দিনহাটা,,Alipurduar railway division,Alipurduar–Bamanhat branch line,26.1241595/89.4656508
+476,FALAKATA,FLK,,,APDJ,NFR,ALIPURDUAR,WEST BENGAL,ফালাকাটা,,Alipurduar railway division,New Jalpaiguri–New Bongaigaon section,26.5383964616/89.1922748828
+477,HASIMARA,HSA,,,APDJ,NFR,ALIPURDUAR,WEST BENGAL,হাসিমারা,,Alipurduar railway division,New Jalpaiguri–New Mal–Alipurduar–Samuktala Road line,26.72689/89.347661
+478,JALPAIGURI ROAD,JPE,,,APDJ,NFR,JALPAIGURI,WEST BENGAL,জলপাইগুড়ি রোড,1915,Alipurduar railway division,New Jalpaiguri–New Bongaigaon section,26.5594/88.7097
+479,KAMAKHYAGURI,KAMG,,,APDJ,NFR,ALIPURDUAR,WEST BENGAL,কামাখ্যাগুড়ি,,Alipurduar railway division,New Jalpaiguri–New Bongaigaon section,26.4772309/89.7288268
+480,NEW MAL JN.,NMZ,,,APDJ,NFR,JALPAIGURI,WEST BENGAL,নিউ মাল জংশন,,Alipurduar railway division,New Jalpaiguri–New Mal–Alipurduar–Samuktala Road line-New Mal–Changrabandha branch line,26.87368/88.724837
+481,NEW MAYNAGURI,NMX,,,APDJ,NFR,JALPAIGURI,WEST BENGAL,নিউ ময়নাগুড়ি,,Alipurduar railway division,New Jalpaiguri–New Bongaigaon section,26.5784/88.8228
+482,ALIPUR DUAR,APD,,,APDJ,NFR,ALIPURDUAR,WEST BENGAL,আলিপুরদুয়ার,,Alipurduar railway division,Alipurduar–Bamanhat branch line,26.479307/89.520667
+483,ALTAGRAM,ATM,,,APDJ,NFR,JALPAIGURI,WEST BENGAL,আলতাগ্রাম,,Alipurduar railway division,New Jalpaiguri–New Bongaigaon section,26.608131/88.946682
+484,BAGRAKOT,BRQ,,,APDJ,NFR,JALPAIGURI,WEST BENGAL,বাগরাকোট,,Alipurduar railway division,New Jalpaiguri–New Mal–Alipurduar–Samuktala Road line,26.87063169/88.58596154
+485,BAMANHAT,BXT,,,APDJ,NFR,COOCHBEHAR,WEST BENGAL,বামনহাট,,Alipurduar railway division,Alipurduar–Bamanhat branch line,26.0706/89.5862
+486,BANARHAT,BNQ,,,APDJ,NFR,JALPAIGURI,WEST BENGAL,বানারহাট,,Alipurduar railway division,New Jalpaiguri–New Mal–Alipurduar–Samuktala Road line,26.797885/89.025682
+487,BANESWAR,BSW,,,APDJ,NFR,COOCHBEHAR,WEST BENGAL,বাণেশ্বর,,Alipurduar railway division,Alipurduar–Bamanhat branch line,26.388205/89.494466
+488,BARADIGHI,BDS,,,APDJ,NFR,JALPAIGURI,WEST BENGAL,বড়দিঘি,,Alipurduar railway division,New Mal–Changrabandha branch line,26.7974377/88.7402033
+489,BETGARA,BYXA,,,APDJ,NFR,JALPAIGURI,WEST BENGAL,বেতগারা,,Alipurduar railway division,New Jalpaiguri–New Bongaigaon section,26.612665/88.885559
+490,BHOTEPATTI,BPV,,,APDJ,NFR,JALPAIGURI,WEST BENGAL,ভোটপাট্টি,,Alipurduar railway division,New Mal–Changrabandha branch line,26.470962/88.8513601
+491,BOXIRHAT,BXHT,,,APDJ,NFR,COOCHBEHAR,WEST BENGAL,বক্সিরহাট,,Alipurduar railway division,New Cooch Behar–Dhubri branch line,26.307287/89.751593
+492,CARRON,CRX,,,APDJ,NFR,JALPAIGURI,WEST BENGAL,কেরন,,Alipurduar railway division,New Jalpaiguri–New Mal–Alipurduar–Samuktala Road line,26.880279/88.9704
+493,CHALSA,CLD,,,APDJ,NFR,JALPAIGURI,WEST BENGAL,চালসা,,Alipurduar railway division,New Jalpaiguri–New Mal–Alipurduar–Samuktala Road line,26.882215/88.798213
+494,CHANGRABANDHA,CBD,,,APDJ,NFR,COOCHBEHAR,WEST BENGAL,চ্যাংড়াবান্ধা,,Alipurduar railway division,New Mal–Changrabandha branch line,26.4131/88.9193
+495,CHAPAGURI,CAPG,,,APDJ,NFR,COOCHBEHAR,WEST BENGAL,চাপাগুড়ি,,Alipurduar railway division,New Changrabandha–New Cooch Behar branch line,26.3491498/89.3376996
+496,COOCH BEHAR,COB,,,APDJ,NFR,COOCHBEHAR,WEST BENGAL,কোচবিহার,1901,Alipurduar railway division,Alipurduar–Bamanhat branch line,26.31871/89.45631
+497,DAM DIM,DDM,,,APDJ,NFR,JALPAIGURI,WEST BENGAL,ডামডিম,,Alipurduar railway division,New Jalpaiguri–New Mal–Alipurduar–Samuktala Road line,26.859243/88.671333
+498,DEWAN HAT,DWT,,,APDJ,NFR,COOCHBEHAR,WEST BENGAL,দেওয়ানহাট,,Alipurduar railway division,Alipurduar–Bamanhat branch line,26.2357443/89.4824884
+499,DOMOHANI,DOI,,,APDJ,NFR,JALPAIGURI,WEST BENGAL,দোমহানী,,Alipurduar railway division,New Mal–Changrabandha branch line,26.5792684/88.7696385
+500,GHOKSADANGA,GDX,,,APDJ,NFR,COOCHBEHAR,WEST BENGAL,ঘোকসাডাঙ্গা,,Alipurduar railway division,New Jalpaiguri–New Bongaigaon section,26.4228864281/89.2780105872
+501,GULMA,GLMA,,,APDJ,NFR,DARJEELING,WEST BENGAL,গুলমা,,Alipurduar railway division,New Jalpaiguri–New Mal–Alipurduar–Samuktala Road line,26.802802/88.403784
+502,GUMANIHAT,GUZ,,,APDJ,NFR,COOCHBEHAR,WEST BENGAL,,,,,
+503,HAMILTONGANJ,HOJ,,,APDJ,NFR,ALIPURDUAR,WEST BENGAL,হ্যামিল্টনগঞ্জ,,Alipurduar railway division,New Jalpaiguri–New Mal–Alipurduar–Samuktala Road line,26.688907/89.416841
+504,JAMALDAGOPALPUR,JDGP,,,APDJ,NFR,COOCHBEHAR,WEST BENGAL,জামালদহ গোপালপুর,,Alipurduar railway division,New Changrabandha–New Cooch Behar branch line-New Mal-Changrabandha-New Cooch Behar line,26.45570993351131/89.04333617230432
+505,JORAI,JOQ,,,APDJ,NFR,COOCHBEHAR,WEST BENGAL,জোরাই,,Alipurduar railway division,New Jalpaiguri–New Bongaigaon section,26.4548754981/89.8034610461
+506,KALCHINI,KCF,,,APDJ,NFR,ALIPURDUAR,WEST BENGAL,কালচিনি,,Alipurduar railway division,New Jalpaiguri–New Mal–Alipurduar–Samuktala Road line,26.687507/89.447487
+507,KOLAIGRAM,KLGR,,,APDJ,NFR,JALPAIGURI,WEST BENGAL,কোলাইগ্রাম,,Alipurduar railway division,New Jalpaiguri–New Bongaigaon section,26.55042/89.052194
+508,LATAGURI,LTG,,,APDJ,NFR,JALPAIGURI,WEST BENGAL,লাটাগুড়ি,,Alipurduar railway division,New Mal–Changrabandha branch line,26.7057081/88.7697029
+509,MADARIHAT,MDT,,,APDJ,NFR,ALIPURDUAR,WEST BENGAL,মাদারিহাট,,Alipurduar railway division,New Jalpaiguri–New Mal–Alipurduar–Samuktala Road line,26.694551388/89.274559021
+510,MAL BAZAR,MLBZ,,,APDJ,NFR,JALPAIGURI,WEST BENGAL,মালবাজার,,Alipurduar railway division,New Mal–Changrabandha branch line,26.8660086/88.737482
+511,MARADANGA,MRDG,,,APDJ,NFR,COOCHBEHAR,WEST BENGAL,মরাডাঙ্গা,,Alipurduar railway division,New Cooch Behar–Dhubri branch line,26.301078/89.556685
+512,MATHABHANGA,MHBA,,,APDJ,NFR,COOCHBEHAR,WEST BENGAL,মাথাভাঙ্গা,,Alipurduar railway division,New Changrabandha–New Cooch Behar branch line,26.3642382/89.1993606
+513,MAYNAGURI ROAD,MYGD,,,APDJ,NFR,JALPAIGURI,WEST BENGAL,ময়নাগুড়ি রোড,,Alipurduar railway division,New Mal–Changrabandha branch line,26.526887/88.799867
+514,MUJNAI,MJE,,,APDJ,NFR,ALIPURDUAR,WEST BENGAL,মুজনাই,,Alipurduar railway division,New Jalpaiguri–New Mal–Alipurduar–Samuktala Road line,26.693328/89.191957
+515,NAGRAKATA,NKB,,,APDJ,NFR,JALPAIGURI,WEST BENGAL,নাগরাকাটা,,Alipurduar railway division,New Jalpaiguri–New Mal–Alipurduar–Samuktala Road line,26.885533/88.917581
+516,NAYARHAT,NYRH,,,APDJ,NFR,COOCHBEHAR,WEST BENGAL,নয়ারহাট,,Alipurduar railway division,New Changrabandha–New Cooch Behar branch line,26.4308089/89.1301636
+517,NEORANADI,NOR,,,APDJ,NFR,JALPAIGURI,WEST BENGAL,নেওরানদী,,Alipurduar railway division,New Mal–Changrabandha branch line,26.742736/88.7460566
+518,NEW BANESWAR,NBS,,,APDJ,NFR,COOCHBEHAR,WEST BENGAL,নিউ বাণেশ্বর,,Alipurduar railway division,New Jalpaiguri–New Bongaigaon section,26.3950219126/89.5104217529
+519,NEW CHANGRABANDHA,NCBD,,,APDJ,NFR,COOCHBEHAR,WEST BENGAL,নিউ চ্যাংড়াবান্ধা,,Alipurduar railway division,New Changrabandha–New Cooch Behar branch line-New Mal–Changrabandha branch line,26.4372277/88.9029551
+520,NEW DOMOHANI,NQH,,,APDJ,NFR,JALPAIGURI,WEST BENGAL,নিউ দোমোহনি,,Alipurduar railway division,New Jalpaiguri–New Bongaigaon section,26.5695/88.7858
+521,NEW GITALDAHA,NGTG,,,APDJ,NFR,COOCHBEHAR,WEST BENGAL,নিউ গিতালদহ জংশন,,Alipurduar railway division,Alipurduar–Bamanhat branch line,26.0350794/89.4878764
+522,OODLABARI,ODB,,,APDJ,NFR,JALPAIGURI,WEST BENGAL,ওদলাবাড়ি,,Alipurduar railway division,New Jalpaiguri–New Mal–Alipurduar–Samuktala Road line,26.866793/88.624639
+523,PUNDIBARI,PQZ,,,APDJ,NFR,COOCHBEHAR,WEST BENGAL,পুণ্ডিবাড়ী,,Alipurduar railway division,New Jalpaiguri–New Bongaigaon section,26.413245/89.393542
+524,SAJERPAR,SJRR,,,APDJ,NFR,COOCHBEHAR,WEST BENGAL,সাজেরপার,,Alipurduar railway division,New Jalpaiguri–New Bongaigaon section,26.4224452405/89.3522741327
+525,SALBARI,SXX,,,APDJ,NFR,ALIPURDUAR,WEST BENGAL,শালবাড়ী,,Alipurduar railway division,New Jalpaiguri–New Bongaigaon section,26.5460609943/89.105526734
+526,SAMUKTALA ROAD,SMTA,,,APDJ,NFR,ALIPURDUAR,WEST BENGAL,শামুকতলা রোড জংশন,1950,Alipurduar railway division,New Jalpaiguri–New Bongaigaon section-New Jalpaiguri–New Mal–Alipurduar–Samuktala Road line,26.4838/89.6355
+527,SIVOK,SVQ,,,APDJ,NFR,DARJEELING,WEST BENGAL,সেবক,,Alipurduar railway division,New Jalpaiguri–New Mal–Alipurduar–Samuktala Road line,26.8806/88.4689
+528,TUFANGANJ,TFGN,,,APDJ,NFR,COOCHBEHAR,WEST BENGAL,তুফানগঞ্জ,,Alipurduar railway division,New Cooch Behar–Dhubri branch line,26.303308/89.667639
+529,BAMANGRAM,BMGR,,,KIR,NFR,DINAJPUR UTTAR,WEST BENGAL,বামনগ্রাম,,Katihar railway division,Barsoi–Radhikapur branch line,25.62311/88.19842415
+530,DALIMGAON,DLX,,,KIR,NFR,DINAJPUR UTTAR,WEST BENGAL,ডালিমগাঁও,,Katihar railway division,Barsoi–Radhikapur branch line,25.640548/88.3863
+531,JHITKIA,JTK,,,KIR,NFR,DINAJPUR UTTAR,WEST BENGAL,ঝিটকিয়া,,Katihar railway division,Barsoi–Radhikapur branch line,25.6253926/88.06331284999999
+532,MAHANANDA BRIDGE,MBC,,,KIR,NFR,MALDAH,WEST BENGAL,মহানন্দা ব্রীজ হল্ট,,Katihar railway division,New Farakka–New Jalpaiguri line,25.1883357022/88.0833990649
+533,BATASI,BTSI,,,KIR,NFR,DARJEELING,WEST BENGAL,বাতাসী,,Katihar railway division,Alubari–Siliguri branch line,26.6095/88.1742
+534,DAULATPUR HALT,DLPH,,,KIR,NFR,DINAJPUR DAKSHIN,WEST BENGAL,দৌলতপুর হল্ট,2004,Katihar railway division,Eklakhi–Balurghat branch line,25.3305/88.3367
+535,DEOTALA,DOTL,,,KIR,NFR,MALDAH,WEST BENGAL,দেওতলা,2004,Katihar railway division,Eklakhi–Balurghat branch line,25.274329/88.294214
+536,KADABARI HAT,KDX,,,KIR,NFR,JALPAIGURI,WEST BENGAL,কাদো বাড়ী হল্ট,,Katihar railway division,Haldibari–New Jalpaiguri line,26.476201/88.730986
+537,KASHIABARI,KSBI,,,KIR,NFR,JALPAIGURI,WEST BENGAL,কাশিয়াবাড়ী হল্ট,,Katihar railway division,Haldibari–New Jalpaiguri line,26.384654/88.768566
+538,MAHANAGAR,MANG,,,KIR,NFR,DINAJPUR DAKSHIN,WEST BENGAL,মহানগর,2004,Katihar railway division,Eklakhi–Balurghat branch line,25.2476/88.2518
+539,MALANCHA,MLNH,,,KIR,NFR,DINAJPUR DAKSHIN,WEST BENGAL,মালঞ্চ,2004,Katihar railway division,Eklakhi–Balurghat branch line,25.3608/88.6026
+540,MALLICKPURHAT,MKRH,,,KIR,NFR,DINAJPUR DAKSHIN,WEST BENGAL,মল্লিকপুর হাট,2004,Katihar railway division,Eklakhi–Balurghat branch line,25.3227/88.6916
+541,MATIGARA,MTRA,,,KIR,NFR,DARJEELING,WEST BENGAL,মাটিগাড়া,,Katihar railway division,Alubari–Siliguri branch line,26.7178317/88.3847761
+542,MOHITNAGAR,MOP,,,KIR,NFR,JALPAIGURI,WEST BENGAL,মোহিতনগর,,Katihar railway division,Haldibari–New Jalpaiguri line,26.53055/88.669651
+543,RAMPUR BAZAR,RMPB,,,KIR,NFR,DINAJPUR DAKSHIN,WEST BENGAL,রামপুর বাজার,2004,Katihar railway division,Eklakhi–Balurghat branch line,25.3446/88.63
+544,SRIPUR HALT,SRPU,,,KIR,NFR,MALDAH,WEST BENGAL,,,,,
+545,NEW JALPAIGURI JN.,NJP,,,KIR,NFR,JALPAIGURI,WEST BENGAL,নিউ জলপাইগুড়ি জংশন,,Katihar railway division,Darjeeling Himalayan Railway-New Farakka–New Jalpaiguri line-New Jalpaiguri–New Bongaigaon section-New Jalpaiguri–New Mal–Alipurduar–Samuktala Road line,26.682355/88.442721
+546,RAIGANJ,RGJ,,,KIR,NFR,DINAJPUR UTTAR,WEST BENGAL,রায়গঞ্জ,1889,Katihar railway division,Barsoi–Radhikapur branch line,25.6187/88.1285
+547,SILIGURI JN.,SGUJ,,,KIR,NFR,DARJEELING,WEST BENGAL,শিলিগুড়ি জংশন,,Katihar railway division,Alubari–Siliguri branch line-Darjeeling Himalayan Railway-New Jalpaiguri–New Mal–Alipurduar–Samuktala Road line,26.723574/88.414033
+548,ALUABARI ROAD,AUB,,,KIR,NFR,DINAJPUR UTTAR,WEST BENGAL,আলুয়াবাড়ী রোড জংশন,,Katihar railway division,New Farakka–New Jalpaiguri line-Alubari–Siliguri branch line,26.269681/88.18561
+549,BALURGHAT,BLGT,,,KIR,NFR,DINAJPUR DAKSHIN,WEST BENGAL,বালুরঘাট,2004,Katihar railway division,Eklakhi–Balurghat branch line,25.233/88.7579
+550,BHALUKA ROAD,BKRD,,,KIR,NFR,MALDAH,WEST BENGAL,ভালুকা রোড,,Katihar railway division,New Farakka–New Jalpaiguri line,25.3425716/87.9121276
+551,BUNIADPUR,BNDP,,,KIR,NFR,DINAJPUR DAKSHIN,WEST BENGAL,বুনিয়াদপুর,2004-12-30,Katihar railway division,Eklakhi–Balurghat branch line,25.386/88.4011
+552,DALKOLHA,DLK,,,KIR,NFR,DINAJPUR UTTAR,WEST BENGAL,ডালখোলা,1871,Katihar railway division,New Farakka–New Jalpaiguri line,25.873416/87.838877
+553,DARJEELING,DJ,,,KIR,NFR,DARJEELING,WEST BENGAL,দার্জিলিং,1881,Katihar railway division,Darjeeling Himalayan Railway,27.0378/88.263
+554,HALDIBARI,HDB,,,KIR,NFR,JALPAIGURI,WEST BENGAL,হলদিবাড়ী,1878,Katihar railway division,Haldibari–New Jalpaiguri line,26.336/88.7828
+555,HARISHCHANDRAPUR,HCR,,,KIR,NFR,MALDAH,WEST BENGAL,হরিশচন্দ্রপুর,,Katihar railway division,New Farakka–New Jalpaiguri line,25.403999/87.867051
+556,JALPAIGURI,JPG,,,KIR,NFR,JALPAIGURI,WEST BENGAL,জলপাইগুড়ি,1878,Katihar railway division,Haldibari–New Jalpaiguri line,26.5189/88.7237
+557,KALIYAGANJ,KAJ,,,KIR,NFR,DINAJPUR UTTAR,WEST BENGAL,কালিয়াগঞ্জ,,Katihar railway division,Barsoi–Radhikapur branch line,25.6393/88.330404
+558,RADHIKAPUR,RDP,,,KIR,NFR,DINAJPUR UTTAR,WEST BENGAL,রাধিকাপুর,,Katihar railway division,Barsoi–Radhikapur branch line,25.642778/88.446944
+559,SAMSI,SM,,,KIR,NFR,MALDAH,WEST BENGAL,সামসী,,Katihar railway division,New Farakka–New Jalpaiguri line,25.276197/88.009757
+560,ADHIKARI,ADQ,,,KIR,NFR,DARJEELING,WEST BENGAL,অধিকারী,,Katihar railway division,Alubari–Siliguri branch line,26.5767/88.1699
+561,ADINA,ADF,,,KIR,NFR,MALDAH,WEST BENGAL,আদিনা,,Katihar railway division,New Farakka–New Jalpaiguri line,25.114397/88.12318
+562,AMBARI FALAKATA,ABFC,,,KIR,NFR,JALPAIGURI,WEST BENGAL,আমবাড়ী ফালাকাটা,,Katihar railway division,New Jalpaiguri–New Bongaigaon section,26.641553/88.510593
+563,BAGHDOGRA,BORA,,,KIR,NFR,DARJEELING,WEST BENGAL,বাগডোগরা,,Katihar railway division,Alubari–Siliguri branch line,26.69777044/88.32445458
+564,BANGALBAREE,BJY,,,KIR,NFR,DINAJPUR UTTAR,WEST BENGAL,বাঙ্গালবাড়ী,,Katihar railway division,Barsoi–Radhikapur branch line,25.626454/88.229425
+565,BELAKOBA,BLK,,,KIR,NFR,JALPAIGURI,WEST BENGAL,বেলাকোবা,,Katihar railway division,New Jalpaiguri–New Bongaigaon section,26.591441/88.583312
+566,BULBULCHANDI,BBCE,,,KIR,NFR,MALDAH,WEST BENGAL,বুলবুলচণ্ডী,,Katihar railway division,Old Malda–Abdulpur line,24.970966/88.242989
+567,CHATTAR HAT,CAT,,,KIR,NFR,DARJEELING,WEST BENGAL,চটেরহাট,,Katihar railway division,New Farakka–New Jalpaiguri line,26.548827/88.323376
+568,DUMDANGI,DMZ,,,KIR,NFR,DINAJPUR UTTAR,WEST BENGAL,ধূমডাঙ্গী,,Katihar railway division,New Farakka–New Jalpaiguri line,26.47724/88.296508
+569,EKLAKHI,EKI,,,KIR,NFR,MALDAH,WEST BENGAL,একলাখী জংশন,1971,Katihar railway division,Eklakhi–Balurghat branch line-New Farakka–New Jalpaiguri line,25.167868/88.099492
+570,GAISAL,GIL,,,KIR,NFR,DINAJPUR UTTAR,WEST BENGAL,গাইসাল,,Katihar railway division,New Farakka–New Jalpaiguri line,26.1848261159/88.0895072131
+571,GANGARAMPUR,GRMP,,,KIR,NFR,DINAJPUR DAKSHIN,WEST BENGAL,গঙ্গারামপুর,2004-12-30,Katihar railway division,Eklakhi–Balurghat branch line,25.390399/88.516447
+572,Gangarampur,GRMP,,,KIR,NFR,Dakshin Dinajpur,WEST BENGAL,গঙ্গারামপুর,2004-12-30,Katihar railway division,Eklakhi–Balurghat branch line,25.390399/88.516447
+573,GAYABARI,GBE,,,KIR,NFR,DARJEELING,WEST BENGAL,গয়াবাড়ী,,Katihar railway division,Darjeeling Himalayan Railway,26.859203/88.312495
+574,GAZOLE,GZO,,,KIR,NFR,MALDAH,WEST BENGAL,গাজোল,,Katihar railway division,Eklakhi–Balurghat branch line,25.224984/88.198885
+575,GHUM,GHUM,,,KIR,NFR,DARJEELING,WEST BENGAL,ঘুম,,Darjeeling municipality,Katihar railway division,27.008643/88.254223
+576,GUNJARIA,GEOR,,,KIR,NFR,DINAJPUR UTTAR,WEST BENGAL,গুঞ্জরিয়া,,Katihar railway division,New Farakka–New Jalpaiguri line,26.218465/88.132222
+577,HATWAR,HWR,,,KIR,NFR,DINAJPUR UTTAR,WEST BENGAL,হাটোয়ার,,Katihar railway division,New Farakka–New Jalpaiguri line,26.044989/87.893032
+578,KANKI,KKA,,,KIR,NFR,DINAJPUR UTTAR,WEST BENGAL,কানকি,,Katihar railway division,New Farakka–New Jalpaiguri line,26.003233/87.864524
+579,KUMARGANJ,KMRJ,,,KIR,NFR,MALDAH,WEST BENGAL,কুমারগঞ্জ,,Katihar railway division,New Farakka–New Jalpaiguri line,25.21833333/88.06555556
+580,KUMEDPUR,KDPR,,,KIR,NFR,MALDAH,WEST BENGAL,কুমেদপুর জংশন,,Katihar railway division,New Farakka–New Jalpaiguri line,25.4334484028/87.804357666
+581,KURSEONG,KGN,,,KIR,NFR,DARJEELING,WEST BENGAL,কার্শিয়াং,,Katihar railway division,Darjeeling Himalayan Railway,26.877401/88.277001
+582,MAHANADI,MHN,,,KIR,NFR,DARJEELING,WEST BENGAL,মহানদী,,Katihar railway division,Darjeeling Himalayan Railway,26.882301/88.318628
+583,MALAHAR,MFZ,,,KIR,NFR,MALDAH,WEST BENGAL,মালাহার হল্ট,,Katihar railway division,New Farakka–New Jalpaiguri line,25.303709/87.95782
+584,MALDA COURT,MLFC,,,KIR,NFR,MALDAH,WEST BENGAL,মালদা কোর্ট,,Katihar railway division,Old Malda–Abdulpur line,25.0112911/88.1627083
+585,MANDALGHAT,MDG,,,KIR,NFR,JALPAIGURI,WEST BENGAL,মণ্ডল ঘাট,,Katihar railway division,Haldibari–New Jalpaiguri line,26.430757/88.754758
+586,MILANGARH,MQG,,,KIR,NFR,MALDAH,WEST BENGAL,মিলনগড়,,Katihar railway division,New Farakka–New Jalpaiguri line,25.3687460393/87.8962231482
+587,NAKSALBARI,NAK,,,KIR,NFR,DARJEELING,WEST BENGAL,নকশালবাড়ি,,Katihar railway division,Alubari–Siliguri branch line,26.682578/88.202235
+588,NIJBARI,NJB,,,KIR,NFR,DARJEELING,WEST BENGAL,নিজবাড়ী,,Katihar railway division,New Farakka–New Jalpaiguri line,26.6074619/88.3448783
+589,OLD MALDA,OMLF,,,KIR,NFR,MALDAH,WEST BENGAL,ওল্ড মালদা জংশন,,Katihar railway division,New Farakka–New Jalpaiguri line-Old Malda–Abdulpur line,25.053174/88.143718
+590,PANJIPARA,PJP,,,KIR,NFR,DINAJPUR UTTAR,WEST BENGAL,পাঞ্জিপাড়া,,Katihar railway division,New Farakka–New Jalpaiguri line,26.1401656527/88.0180577417
+591,RANGAPANI,RNI,,,KIR,NFR,DARJEELING,WEST BENGAL,রাঙ্গাপানি,,Katihar railway division,New Farakka–New Jalpaiguri line,26.664263/88.374386
+592,RANGTONG,RTG,,,KIR,NFR,DARJEELING,WEST BENGAL,রংটং,,Katihar railway division,Darjeeling Himalayan Railway,26.836122/88.342388
+593,RANINAGAR JALPAIGURI,RQJ,,,KIR,NFR,JALPAIGURI,WEST BENGAL,রানীনগর জলপাইগুড়ি জংশন,,Katihar railway division,New Jalpaiguri–New Bongaigaon section-Haldibari–New Jalpaiguri line,26.544/88.648
+594,SILIGURI TOWN,SGUT,,,KIR,NFR,DARJEELING,WEST BENGAL,শিলিগুড়ি টাউন,,Katihar railway division,Darjeeling Himalayan Railway-New Jalpaiguri–New Mal–Alipurduar–Samuktala Road line,26.7071/88.4292
+595,SINGHABAD,SQB,,,KIR,NFR,MALDAH,WEST BENGAL,সিঙ্গাবাদ,,Katihar railway division,Old Malda–Abdulpur line,24.9043/88.2898
+596,SONADA,SAD,,,KIR,NFR,DARJEELING,WEST BENGAL,সোনাদা,,Katihar railway division,Darjeeling Himalayan Railway,26.960337/88.273323
+597,SUKNA,SN,,,KIR,NFR,DARJEELING,WEST BENGAL,সুকনা,,Katihar railway division,Darjeeling Himalayan Railway,26.790887/88.363493
+598,SURJAKAMAL,SJKL,,,KIR,NFR,DINAJPUR UTTAR,WEST BENGAL,সূর্য্যকমল,,Katihar railway division,New Farakka–New Jalpaiguri line,25.935932/87.849258
+599,TIN MILE HAT,TMH,,,KIR,NFR,DINAJPUR UTTAR,WEST BENGAL,তিনমাইল হাট,,Katihar railway division,New Farakka–New Jalpaiguri line,26.436601/88.279995
+600,TINDHARIA,TDH,,,KIR,NFR,DARJEELING,WEST BENGAL,তিনধরিয়া,,Katihar railway division,Darjeeling Himalayan Railway,26.851551/88.332848
+601,TUNG,TUNG,,,KIR,NFR,DARJEELING,WEST BENGAL,টুং,,Katihar railway division,Darjeeling Himalayan Railway,26.921803/88.294811
+602,BELIATOR PH,BZC,,,ADRA,SER,BANKURA,WEST BENGAL,বেলিয়াতোড়,1916,Adra railway division,Bankura–Masagram line,23.3151999/87.2228012
+603,BETUR PH,BTRB,,,ADRA,SER,BANKURA,WEST BENGAL,বেতুর,1916,Adra railway division,Bankura–Masagram line,23.190396/87.5801694
+604,BHEDUASOL,BXL,,,ADRA,SER,BANKURA,WEST BENGAL,ভেদুয়াসোল,,Adra railway division,Kharagpur–Bankura–Adra line,23.1943639299/87.13517328
+605,BOGRI ROAD,BGO,,,ADRA,SER,BANKURA,WEST BENGAL,বগড়ী রোড,,Adra railway division,Kharagpur–Bankura–Adra line,22.881747/87.325732
+606,CHAS ROAD PH,CAS,,,ADRA,SER,PURULIA,WEST BENGAL,চাস রোড,,Adra railway division,Purulia–Ranchi Line,23.415513/86.225425
+607,DHAGARIA PH,DGF,,,ADRA,SER,BANKURA,WEST BENGAL,ধাগাড়িয়া,1916,Adra railway division,Bankura–Masagram line,23.2435876/87.5043152
+608,DHANSIMLA PH,DIM,,,ADRA,SER,BANKURA,WEST BENGAL,ধানসিমলা,1916,Adra railway division,Bankura–Masagram line,23.2672466/87.4658912
+609,HAMIRATI PH,HAM,,,ADRA,SER,BANKURA,WEST BENGAL,হামিরহাটী,1916,Adra railway division,Bankura–Masagram line,23.3222457/87.3600324
+610,INDAS PH,INS,,,ADRA,SER,BANKURA,WEST BENGAL,ইন্দাস,1916,Adra railway division,Bankura–Masagram line,23.1573993/87.6345545
+611,KUMRUL PH,KMRL,,,ADRA,SER,BANKURA,WEST BENGAL,কুমরুল,1916,Adra railway division,Bankura–Masagram line,23.1804412/87.6038553
+612,MATHNASHIPUR PH,MTIP,,,ADRA,SER,PASCHIM BARDHAMAN,WEST BENGAL,,,,,
+613,METYAL SAHAR PH,MYX,,,ADRA,SER,PURULIA,WEST BENGAL,মেট্যাল সহর,,Adra railway division,Kharagpur–Bankura–Adra line,23.482582/86.748784
+614,PATRASAYER PH,PSF,,,ADRA,SER,BANKURA,WEST BENGAL,পাত্রসায়ের,1916,Adra railway division,Bankura–Masagram line,23.2156458/87.5378555
+615,RAINAGAR PH,RNGR,,,ADRA,SER,PURBA BARDHAMAN,WEST BENGAL,রায়নগর,1916,Adra railway division,Bankura–Masagram line,23.0685343/87.8862678
+616,SAHASPUR ROAD PH,SHJ,,,ADRA,SER,BANKURA,WEST BENGAL,সাহসপুর রোড,1916,Adra railway division,Bankura–Masagram line,23.1325135/87.6762038
+617,SEHARA BAZAR PH,SRBZ,,,ADRA,SER,PASCHIM BARDHAMAN,WEST BENGAL,সেহারাবাজার,1916,Adra railway division,Bankura–Masagram line,23.1099426/87.8044503
+618,SHYAMSUNDAR PH,SHMR,,,ADRA,SER,PASCHIM BARDHAMAN,WEST BENGAL,শ্যামসুন্দর,1916,Adra railway division,Bankura–Masagram line,23.0814658/87.8606399
+619,ANCHURI P.H.,ANCR,,,ADRA,SER,BANKURA,WEST BENGAL,আঁচুরি,,Adra railway division,Kharagpur–Bankura–Adra line,23.283904/86.993174
+620,BELBONI PH,BEX,,,ADRA,SER,BANKURA,WEST BENGAL,বেলবনী,1916,Adra railway division,Bankura–Masagram line,23.2764077/87.1521123
+621,BERUGRAM,BUGM,,,ADRA,SER,PASCHIM BARDHAMAN,WEST BENGAL,বেড়ুগ্রাম,,Adra railway division,Bankura–Masagram line,23.1043622/87.9842079
+622,BHADUTALA,BUTA,,,ADRA,SER,MEDINIPUR WEST,WEST BENGAL,জঙ্গলমহল ভাদুতলা,,Adra railway division,Kharagpur–Bankura–Adra line,22.485657/87.3208
+623,BIKNA PH,BKNO,,,ADRA,SER,BANKURA,WEST BENGAL,,,,,
+624,BOKRA PH,BOKA,,,ADRA,SER,PASCHIM BARDHAMAN,WEST BENGAL,,,,,
+625,BRINDABANPUR PH,BDPR,,,ADRA,SER,BANKURA,WEST BENGAL,বৃন্দাবনপুর,1916,Adra railway division,Bankura–Masagram line,23.3075355/87.2802702
+626,CHANDAR,CNRF,,,ADRA,SER,BANKURA,WEST BENGAL,ছান্দার,1916,Adra railway division,Bankura–Masagram line,23.3030368/87.2505239
+627,DAMRUGHUTU,DRGU,,,ADRA,SER,PURULIA,WEST BENGAL,ডমরুঘুটু,,Adra railway division,,23.45136/86.08981
+628,GOPINATHPUR,GOR,,,ADRA,SER,PASCHIM BARDHAMAN,WEST BENGAL,গোপীনাথপুর,1916,Adra railway division,Bankura–Masagram line,23.0880434/87.847654
+629,GRAMDADPUR PH,GMDP,,,ADRA,SER,PASCHIM BARDHAMAN,WEST BENGAL,গ্রামদাদপুর,,Adra railway division,Bankura–Masagram line,23.1156011/87.9984914
+630,GUIRSARANGA PH,GSQ,,,ADRA,SER,PASCHIM BARDHAMAN,WEST BENGAL,গুইর সারঙ্গ,1916,Adra railway division,Bankura–Masagram line,23.1262908/87.7533603
+631,HABASPUR PH,HPUR,,,ADRA,SER,PASCHIM BARDHAMAN,WEST BENGAL,হাবাসপুর,,Adra railway division,Bankura–Masagram line,23.1210669/88.0055261
+632,KAIYAR PH,KYB,,,ADRA,SER,PASCHIM BARDHAMAN,WEST BENGAL,কাইয়ুর,1916,Adra railway division,Bankura–Masagram line,23.121463/87.772326
+633,KALISEN PH,KISN,,,ADRA,SER,BANKURA,WEST BENGAL,কালিসেন,,Adra railway division,Kharagpur–Bankura–Adra line,23.1816003962/87.1624991003
+634,MUSTAPHA CHAK,MFCK,,,ADRA,SER,PASCHIM BARDHAMAN,WEST BENGAL,,,,,
+635,NOBANDA PH,NOB,,,ADRA,SER,BANKURA,WEST BENGAL,নবান্দা,1916,Adra railway division,Bankura–Masagram line,23.2703936/87.1386622
+636,SHANKRUL PH,SHKL,,,ADRA,SER,BANKURA,WEST BENGAL,শাঁকরুল,1916,Adra railway division,Bankura–Masagram line,23.141973/87.6545852
+637,SRIRAMPUR PH,SIMR,,,ADRA,SER,BANKURA,WEST BENGAL,শ্রীরামপুর হল্ট,1916,Adra railway division,Bankura–Masagram line,23.3243799/87.3192213
+638,MOHISILA,MOH,,,ADRA,SER,PASCHIM BARDHAMAN,WEST BENGAL,মহিষীলা,,Adra railway division,,23.6629651/86.9716573
+639,CHOURASHI,CRS,,,ADRA,SER,PURULIA,WEST BENGAL,চৌরাশি,,Adra railway division,Ramkanali–Chourashi branch line,23.6314287/86.7918641
+640,RADHANAGAR,RDR,,,ADRA,SER,PURBA BARDHAMAN,WEST BENGAL,রাধানগর,,Adra railway division,,23.683447/86.858183
+641,ADRA,ADRA,,,ADRA,SER,PURULIA,WEST BENGAL,আদ্রা জংশন,1891,Adra railway division,Asansol–Tatanagar–Kharagpur line-Kharagpur–Bankura–Adra line-Adra–Bokaro branch line,23.495992/86.674665
+642,BANKURA,BQA,,,ADRA,SER,BANKURA,WEST BENGAL,বাঁকুড়া জংশন,,Adra railway division,Kharagpur–Bankura–Adra line-Bankura–Masagram line,23.2243871/87.0746875
+643,BISHNUPUR,VSU,,,ADRA,SER,BANKURA,WEST BENGAL,বিষ্ণুপুর,,Adra railway division,Kharagpur–Bankura–Adra line-Sheoraphuli–Bishnupur branch line,23.0651/87.3013
+644,PURULIA JN.,PRR,,,ADRA,SER,PURULIA,WEST BENGAL,পুরুলিয়া জংশন,1890,Adra railway division,Asansol–Tatanagar–Kharagpur line-Purulia–Ranchi Line,23.324911/86.37787
+645,ANARA,ANR,,,ADRA,SER,PURULIA,WEST BENGAL,আনারা জংশন,,Adra railway division,Asansol–Tatanagar–Kharagpur line-Anara–Rukni branch line,23.481082/86.559763
+646,BARABHUM,BBM,,,ADRA,SER,PURULIA,WEST BENGAL,বরাভূম,,Adra railway division,Asansol–Tatanagar–Kharagpur line,23.0912864/86.2112372
+647,BURNPUR,BURN,,,ADRA,SER,PASCHIM BARDHAMAN,WEST BENGAL,বার্ণপুর,,Adra railway division,Asansol–Tatanagar–Kharagpur line,23.6724/86.9393
+648,CHANDRAKONA ROAD,CDGR,,,ADRA,SER,MEDINIPUR WEST,WEST BENGAL,চন্দ্রকোণা রোড,,Adra railway division,Kharagpur–Bankura–Adra line,22.739076/87.340588
+649,GARBETA,GBA,,,ADRA,SER,MEDINIPUR WEST,WEST BENGAL,গড়বেতা,,Adra railway division,Kharagpur–Bankura–Adra line,22.844562/87.320972
+650,JOYCHANDI PAHAR,JOC,,,ADRA,SER,PURULIA,WEST BENGAL,জয়চণ্ডী পাহাড়,,Adra railway division,Asansol–Tatanagar–Kharagpur line,23.5168/86.6809
+651,MADHUKUNDA,MDKD,,,ADRA,SER,PURULIA,WEST BENGAL,মধুকুণ্ডা,1891,Adra railway division,Asansol–Tatanagar–Kharagpur line,23.6269/86.8695
+652,MURADI,MDF,,,ADRA,SER,PURULIA,WEST BENGAL,মুরাডি,1891,Adra railway division,Asansol–Tatanagar–Kharagpur line,23.5931/86.8093
+653,SALBONI,SLB,,,ADRA,SER,MEDINIPUR WEST,WEST BENGAL,শালবনী,,Adra railway division,Kharagpur–Bankura–Adra line,22.640971/87.321899
+654,BAGALIA,BGA,,,ADRA,SER,PURULIA,WEST BENGAL,বাগালিয়া,,Adra railway division,Asansol–Tatanagar–Kharagpur line,23.44693617/86.51904643
+655,BERO,BERO,,,ADRA,SER,PURULIA,WEST BENGAL,বেরো,1891,Adra railway division,Asansol–Tatanagar–Kharagpur line,23.548271/86.726609
+656,BIRAMDIH,BRMD,,,ADRA,SER,PURULIA,WEST BENGAL,বিরামডি,,Adra railway division,Asansol–Tatanagar–Kharagpur line,23.04578437/86.19920954
+657,BOWAICHANDI PH,BWCN,,,ADRA,SER,PURBA BARDHAMAN,WEST BENGAL,,,,,
+658,CHHARRA,CHRA,,,ADRA,SER,PURULIA,WEST BENGAL,ছররা,,Adra railway division,Asansol–Tatanagar–Kharagpur line,23.375747/86.422994
+659,CHHATNA,CJN,,,ADRA,SER,BANKURA,WEST BENGAL,ছাতনা,,Adra railway division,Kharagpur–Bankura–Adra line,23.305386/86.975734
+660,DAMODAR JN.,DMA,,,ADRA,SER,PASCHIM BARDHAMAN,WEST BENGAL,দামোদর,1891,Adra railway division,Asansol–Tatanagar–Kharagpur line,23.651021/86.908517
+661,GARH-DHRUBBESWAR,GRB,,,ADRA,SER,PURULIA,WEST BENGAL,গড়ধ্রুবেশ্বর,,Adra railway division,Asansol–Tatanagar–Kharagpur line,23.509341/86.617006
+662,GARHJAIPUR,GUG,,,ADRA,SER,PURULIA,WEST BENGAL,গড় জয়পুর,,Adra railway division,Purulia–Ranchi Line,23.4144679/86.1472613
+663,GODAPEASAL,GSL,,,ADRA,SER,MEDINIPUR WEST,WEST BENGAL,গোদাপিয়াশাল,,Adra railway division,Kharagpur–Bankura–Adra line,22.530677/87.320806
+664,GOURINATHDHAM,GTD,,,ADRA,SER,PURULIA,WEST BENGAL,গৌরীনাথধাম,1907,Adra railway division,Purulia–Ranchi Line,23.3958/86.2746
+665,INDRABIL,IBL,,,ADRA,SER,PURULIA,WEST BENGAL,ইন্দ্রবিল,,Adra railway division,Kharagpur–Bankura–Adra line,23.445294/86.781647
+666,JHANTIPAHARI,JPH,,,ADRA,SER,BANKURA,WEST BENGAL,ঝাঁটিপাহাড়ী,,Adra railway division,Kharagpur–Bankura–Adra line,23.353363/86.904491
+667,KANTADIH,KTD,,,ADRA,SER,PURULIA,WEST BENGAL,কান্টাডি,,Adra railway division,Asansol–Tatanagar–Kharagpur line,23.21838/86.29629
+668,KOTSHILA,KSX,,,ADRA,SER,PURULIA,WEST BENGAL,কোটশিলা জংশন,,Adra railway division,Purulia–Ranchi Line,23.411691/86.079548
+669,KUSTAUR,KSU,,,ADRA,SER,PURULIA,WEST BENGAL,কুস্তাউর,,Adra railway division,Asansol–Tatanagar–Kharagpur line,23.430416/86.498336
+670,ONDAGRAM,ODM,,,ADRA,SER,BANKURA,WEST BENGAL,ওন্দাগ্রাম,,Adra railway division,Kharagpur–Bankura–Adra line,23.147974/87.202275
+671,PIARDOBA,PBA,,,ADRA,SER,BANKURA,WEST BENGAL,পিয়ারডোবা,,Adra railway division,Kharagpur–Bankura–Adra line,22.956881/87.322164
+672,PUNDAG,PNW,,,ADRA,SER,PURULIA,WEST BENGAL,পুনদাগ,,Adra railway division,,23.508909/86.089576
+673,RAMKANALI JN.,RKI,,,ADRA,SER,PURULIA,WEST BENGAL,রামকানালী জংশন,1891,Adra railway division,Asansol–Tatanagar–Kharagpur line-Ramkanali–Chourashi branch line,23.579891/86.762336
+674,RAMSAGAR,RSG,,,ADRA,SER,BANKURA,WEST BENGAL,রামসাগর,,Adra railway division,Kharagpur–Bankura–Adra line,23.106248/87.277063
+675,RUKNI,RUI,,,ADRA,SER,PURULIA,WEST BENGAL,রুকনী জংশন,,Adra railway division,Adra–Bokaro branch line-Anara–Rukni branch line,23.551806/86.548025
+676,SANKA,SNKR,,,ADRA,SER,PURULIA,WEST BENGAL,সাঁকা,,Adra railway division,Adra–Bokaro branch line,23.52693/86.616164
+677,SANTALDIH,SNTD,,,ADRA,SER,PURULIA,WEST BENGAL,সান্তালডি,,Adra railway division,Adra–Bokaro branch line,23.596661/86.483123
+678,SIRJAM,SRJM,,,ADRA,SER,PURULIA,WEST BENGAL,সিরজাম,,Adra railway division,Kharagpur–Bankura–Adra line,23.403864/86.835097
+679,SONAMUKHI,SONA,,,ADRA,SER,BANKURA,WEST BENGAL,সোনামুখী,1916,Adra railway division,Bankura–Masagram line,23.2935418/87.4148098
+680,TAMNA,TAO,,,ADRA,SER,PURULIA,WEST BENGAL,টামনা,,Adra railway division,Asansol–Tatanagar–Kharagpur line,23.268988/86.352313
+681,URMA,URMA,,,ADRA,SER,PURULIA,WEST BENGAL,উরমা,,Adra railway division,Asansol–Tatanagar–Kharagpur line,23.157777/86.253775
+682,DURGACHAK TOWN,DZKT,,,KGP,SER,MEDINIPUR EAST,WEST BENGAL,দুর্গাচক টাউন,1968,Kharagpur railway division,Panskura–Haldia branch line,22.066831/88.136032
+683,JALALSI P.H.,JLI,,,KGP,SER,HOWRAH,WEST BENGAL,জালালসি,,Kharagpur railway division,Santragachi-Amta Branch Line,22.5882037/88.0576891
+684,MAHENDRALALNAGAR,MHLN,,,KGP,SER,HOWRAH,WEST BENGAL,মহেন্দ্রলাল নগর,,Kharagpur railway division,Santragachi-Amta Branch Line,22.6434398/88.0916405
+685,MUNSIRHAT P.H.,MNH,,,KGP,SER,HOWRAH,WEST BENGAL,মুন্সীরহাট,,Kharagpur railway division,Santragachi-Amta Branch Line,22.6489476/88.0955458
+686,PANTIHAL,PTHL,,,KGP,SER,HOWRAH,WEST BENGAL,পাঁতিহাল,,Kharagpur railway division,Santragachi-Amta Branch Line,22.6595467/88.1144339
+687,ANGUA P.H.,AGV,,,KGP,SER,MEDINIPUR WEST,WEST BENGAL,আঙ্গুয়া,,Kharagpur railway division,Kharagpur–Puri line,21.892582/87.269923
+688,ASHAPURNA DEVI,APRD,,,KGP,SER,MEDINIPUR EAST,WEST BENGAL,আশাপূর্ণা দেবী,2004,Kharagpur railway division,Tamluk–Digha branch line,21.727401/87.638201
+689,BADALPUR P.H,BDPA,,,KGP,SER,MEDINIPUR EAST,WEST BENGAL,বাদলপুর,2004,Kharagpur railway division,Tamluk–Digha branch line,21.710487/87.616227
+690,BANDAR PH,BAAR,,,KGP,SER,MEDINIPUR EAST,WEST BENGAL,বন্দর,1968,Kharagpur railway division,Panskura–Haldia branch line,22.052122/88.086816
+691,BANSTOLA PH,BNB,,,KGP,SER,JHARGRAM,WEST BENGAL,বাঁশতলা,,Kharagpur railway division,Asansol–Tatanagar–Kharagpur line,22.4209740526/87.062669671
+692,DANSI PH,DNI,,,KGP,SER,HOWRAH,WEST BENGAL,ডাঁসী,,Kharagpur railway division,Santragachi-Amta Branch Line,22.6222708/88.2660781
+693,DOMJUR ROAD,DMJR,,,KGP,SER,HOWRAH,WEST BENGAL,ডোমজুর রোড,,Kharagpur railway division,Santragachi-Amta Branch Line,22.6357236/88.2222319
+694,DUAN,DUAN,,,KGP,SER,MEDINIPUR WEST,WEST BENGAL,ডুঁয়া,,Kharagpur railway division,Howrah–Kharagpur line,22.354105/87.588218
+695,HARISHDADPUR PH,HDC,,,KGP,SER,HOWRAH,WEST BENGAL,হরিশদাদপুর,,Kharagpur railway division,Santragachi-Amta Branch Line,22.57511/88.0435458
+696,HERIA P.H.,HEN,,,KGP,SER,MEDINIPUR EAST,WEST BENGAL,হেঁড়িয়া,2004,Kharagpur railway division,Tamluk–Digha branch line,21.974916/87.795566
+697,JHALUARBAR,JLBR,,,KGP,SER,HOWRAH,WEST BENGAL,ঝালুয়ারবেড়,,Kharagpur railway division,Santragachi-Amta Branch Line,22.6276133/88.2524765
+698,KHATKURA P.H.,KATB,,,KGP,SER,JHARGRAM,WEST BENGAL,খাটকুরা,,Kharagpur railway division,Asansol–Tatanagar–Kharagpur line,22.477455/86.930224
+699,KONA PH,KONA,,,KGP,SER,HOWRAH,WEST BENGAL,কোনা,,Kharagpur railway division,Santragachi-Amta Branch Line,22.6182622/88.2967748
+700,LAVAN SG SMARAK,LSGS,,,KGP,SER,MEDINIPUR EAST,WEST BENGAL,লবণ সত্যাগ্রহ স্মারক,2004,Kharagpur railway division,Tamluk–Digha branch line,22.11493275/87.8715031
+701,MAKARDAHA,MDC,,,KGP,SER,HOWRAH,WEST BENGAL,মাকড়দহ,,Kharagpur railway division,Santragachi-Amta Branch Line,22.628756/88.236759
+702,NACHINDA P.H.,NCN,,,KGP,SER,MEDINIPUR EAST,WEST BENGAL,নাচিন্দা,2004,Kharagpur railway division,Tamluk–Digha branch line,21.881341/87.754966
+703,SAHID MATANGINI,SMTG,,,KGP,SER,MEDINIPUR EAST,WEST BENGAL,শহীদ মাতঙ্গিনী,1968,Kharagpur railway division,Panskura–Haldia branch line,22.301974/87.908115
+704,SATISH SAMANTA P.H.,SSPH,,,KGP,SER,MEDINIPUR EAST,WEST BENGAL,সতীশ সামন্ত হল্ট,1968,Kharagpur railway division,Panskura–Haldia branch line,22.194485/87.987567
+705,SITALPUR (BENGAL),STLB,,,KGP,SER,MEDINIPUR EAST,WEST BENGAL,শীতলপুর,2004,Kharagpur railway division,Tamluk–Digha branch line,21.774098/87.672822
+706,SUJALPUR P.H.,SJPA,,,KGP,SER,MEDINIPUR EAST,WEST BENGAL,সুজালপুর,2004,Kharagpur railway division,Tamluk–Digha branch line,21.763167/87.657497
+707,TIKRA P.H.,TKRA,,,KGP,SER,MEDINIPUR EAST,WEST BENGAL,টিকরা,2004,Kharagpur railway division,Tamluk–Digha branch line,21.66408/87.531081
+708,DAKSHINBARI,DKB,,,KGP,SER,HOWRAH,WEST BENGAL,দক্ষিণবাড়ী,,Kharagpur railway division,Santragachi-Amta Branch Line,22.6561086/88.1825218
+709,PADMAPUKUR,PDPK,,,KGP,SER,HOWRAH,WEST BENGAL,পদ্মপুকুর,,Kharagpur railway division,Shalimar–Santragachi Branch Line,22.5684157/88.3056857
+710,COSSYE,CSY,,,KGP,SER,MEDINIPUR WEST,WEST BENGAL,কাঁসাই হল্ট,,Kharagpur railway division,Kharagpur–Bankura–Adra line,22.4068330073/87.2896485193
+711,HALDIA DOCK COMP. GE,HDCG,,,KGP,SER,MEDINIPUR EAST,WEST BENGAL,,,,,
+712,KHARAGPUR WORKSHOP,KGPW,,,KGP,SER,MEDINIPUR WEST,WEST BENGAL,,,,,
+713,HOWRAH SOUTH N C,HWHS,,,KGP,SER,HOWRAH,WEST BENGAL,,,,,
+714,KHARAGPUR,KGP,,,KGP,SER,MEDINIPUR WEST,WEST BENGAL,খড়গপুর জংশন,1898,Kharagpur railway division,Howrah–Kharagpur line-Asansol–Tatanagar–Kharagpur line-Kharagpur–Puri line-Kharagpur–Bankura–Adra line,22.3399/87.3249
+715,SHALIMAR,SHM,,,KGP,SER,HOWRAH,WEST BENGAL,শালিমার,2000,Kharagpur railway division,Shalimar–Santragachi Branch Line,22.556388888889/88.314722222222
+716,DIGHA,DGHA,,,KGP,SER,MEDINIPUR EAST,WEST BENGAL,দীঘা,1992,Kharagpur railway division,Tamluk–Digha branch line,21.6229/87.5082
+717,JHARGRAM,JGM,,,KGP,SER,JHARGRAM,WEST BENGAL,ঝাড়গ্রাম,,Kharagpur railway division,Asansol–Tatanagar–Kharagpur line,22.4549644863/86.9985316705
+718,MIDNAPORE,MDN,,,KGP,SER,MEDINIPUR WEST,WEST BENGAL,মেদিনীপুর,,Kharagpur railway division,Kharagpur–Bankura–Adra line,22.42498/87.307379
+719,BELDA,BLDA,,,KGP,SER,MEDINIPUR WEST,WEST BENGAL,,,,,
+720,HIJLI,HIJ,,,KGP,SER,MEDINIPUR WEST,WEST BENGAL,হিজলি,,Kharagpur railway division,Kharagpur–Puri line,22.319921/87.320169
+721,KANTHI F.S.,KATI,,,KGP,SER,MEDINIPUR EAST,WEST BENGAL,কাঁথি,2004,Kharagpur railway division,Tamluk–Digha branch line,21.788743/87.734128
+722,BAKHRABAD,VKD,,,KGP,SER,MEDINIPUR WEST,WEST BENGAL,বাখরাবাদ,,Kharagpur railway division,Kharagpur–Puri line,22.118541/87.36345
+723,BENAPUR,BPE,,,KGP,SER,MEDINIPUR WEST,WEST BENGAL,বেনাপুর,,Kharagpur railway division,Kharagpur–Puri line,22.27135231/87.37624084
+724,DANTAN,DNT,,,KGP,SER,MEDINIPUR WEST,WEST BENGAL,দাঁতন,,Kharagpur railway division,Kharagpur–Puri line,21.930376/87.284055
+725,DESHAPRAN P.H.,DSPN,,,KGP,SER,MEDINIPUR EAST,WEST BENGAL,দেশপ্রাণ,2004,Kharagpur railway division,Tamluk–Digha branch line,22.029347/87.817047
+726,GIDHNI,GII,,,KGP,SER,JHARGRAM,WEST BENGAL,গিধনি,,Kharagpur railway division,Asansol–Tatanagar–Kharagpur line,22.488472/86.853201
+727,KALAIKUNDA,KKQ,,,KGP,SER,MEDINIPUR WEST,WEST BENGAL,কলাইকুণ্ডা,,Kharagpur railway division,Asansol–Tatanagar–Kharagpur line,22.32945442/87.24399951
+728,KHEMASULI PH,KSO,,,KGP,SER,MEDINIPUR WEST,WEST BENGAL,খেমাশুলি,,Kharagpur railway division,Asansol–Tatanagar–Kharagpur line,22.337768/87.184863
+729,NANDHAKUMAR,NDKR,,,KGP,SER,MEDINIPUR EAST,WEST BENGAL,নন্দকুমার,2004,Kharagpur railway division,Tamluk–Digha branch line,22.1909239649/87.927872196
+730,NARAYANGARH,NYA,,,KGP,SER,MEDINIPUR WEST,WEST BENGAL,নারায়ণগড়,,Kharagpur railway division,Kharagpur–Puri line,22.174233/87.380456
+731,NIKURSINI,NSI,,,KGP,SER,MEDINIPUR WEST,WEST BENGAL,নেকুরসেনি,,Kharagpur railway division,Kharagpur–Puri line,22.004654/87.306186
+732,RAMNAGAR (BENGAL)P.H,RMRB,,,KGP,SER,MEDINIPUR EAST,WEST BENGAL,রামনগর,2004,Kharagpur railway division,Tamluk–Digha branch line,21.677451/87.55405
+733,SARDIHA,SUA,,,KGP,SER,JHARGRAM,WEST BENGAL,সারদিয়া,,Kharagpur railway division,Asansol–Tatanagar–Kharagpur line,22.380612/87.123645
+734,MECHEDA,MCA,,,KGP,SER,MEDINIPUR EAST,WEST BENGAL,মেছেদা,,Kharagpur railway division,Howrah–Kharagpur line,22.414105/87.85883
+735,SANTRAGACHI JN,SRC,,,KGP,SER,HOWRAH,WEST BENGAL,সাঁতরাগাছি জংশন,,Howrah Municipal Corporation,Kharagpur railway division,22.5838/88.2843
+736,BAGNAN,BZN,,,KGP,SER,HOWRAH,WEST BENGAL,বাগনান,1900,Kharagpur railway division,Howrah–Kharagpur line,22.462515/87.970711
+737,PANSKURA,PKU,,,KGP,SER,MEDINIPUR EAST,WEST BENGAL,পাঁশকুড়া জংশন,1900,Kharagpur railway division,Howrah–Kharagpur line-Panskura–Haldia branch line,22.393102763/87.7430237079
+738,ABADA,ABB,,,KGP,SER,HOWRAH,WEST BENGAL,আবাদা,,Kharagpur railway division,Howrah–Kharagpur line,22.547877/88.199392
+739,AMTA,AMTA,,,KGP,SER,HOWRAH,WEST BENGAL,,,,,
+740,ANDUL,ADL,,,KGP,SER,HOWRAH,WEST BENGAL,আন্দুল,1900,Kharagpur railway division,Howrah–Kharagpur line,22.575169/88.239643
+741,BALICHAK,BCK,,,KGP,SER,MEDINIPUR WEST,WEST BENGAL,বালিচক,,Kharagpur railway division,Howrah–Kharagpur line,22.35818589/87.55335416
+742,BANKRA NAYABAZ,BKNM,,,KGP,SER,HOWRAH,WEST BENGAL,বাঁকড়া নয়াবাজ,,Kharagpur railway division,Santragachi-Amta Branch Line,22.5955199/88.2772604
+743,BARDA,BRDB,,,KGP,SER,MEDINIPUR EAST,WEST BENGAL,বরদা,1968,Kharagpur railway division,Panskura–Haldia branch line,22.15295838/88.08753041
+744,BARGACHIA,BAC,,,KGP,SER,HOWRAH,WEST BENGAL,বড়গাছিয়া,,Kharagpur railway division,Santragachi-Amta Branch Line,22.6668087/88.1383538
+745,BASULYA SUTAHATA,BYSA,,,KGP,SER,MEDINIPUR EAST,WEST BENGAL,বাসুলিয়া সুতাহাটা,1968,Kharagpur railway division,Panskura–Haldia branch line,22.12030128/88.13056325
+746,BAURIA JN.,BVA,,,KGP,SER,HOWRAH,WEST BENGAL,বাউড়িয়া,1900,Kharagpur railway division,Howrah–Kharagpur line,22.5035911202/88.1635216052
+747,BHOGPUR,BOP,,,KGP,SER,MEDINIPUR EAST,WEST BENGAL,ভোগপুর,,Kharagpur railway division,Howrah–Kharagpur line,22.401522/87.809079
+748,BIRSHIBPUR,BSBP,,,KGP,SER,HOWRAH,WEST BENGAL,বীর শিবপুর,,Kharagpur railway division,Howrah–Kharagpur line,22.473359/88.053112
+749,CHENGEL,CGA,,,KGP,SER,HOWRAH,WEST BENGAL,চেঙ্গাইল,1900,Kharagpur railway division,Howrah–Kharagpur line,22.486845/88.13891
+750,DASHNAGAR,DSNR,,,KGP,SER,HOWRAH,WEST BENGAL,দাশনগর,1900,Kharagpur railway division,Howrah–Kharagpur line,22.598094/88.3077615
+751,DEULTI,DTE,,,KGP,SER,HOWRAH,WEST BENGAL,দেউলটি,,Kharagpur railway division,Howrah–Kharagpur line,22.452857/87.914003
+752,DOMJUR,DJR,,,KGP,SER,HOWRAH,WEST BENGAL,ডোমজুড়,,Kharagpur railway division,Santragachi-Amta Branch Line,22.6430116/88.2094619
+753,DURGACHAK,DZK,,,KGP,SER,MEDINIPUR EAST,WEST BENGAL,দুর্গাচক,1968,Kharagpur railway division,Panskura–Haldia branch line,22.082011/88.155274
+754,FULESWAR,FLR,,,KGP,SER,HOWRAH,WEST BENGAL,ফুলেশ্বর,,Kharagpur railway division,Howrah–Kharagpur line,22.4778756365/88.1160488959
+755,GHORAGHATA,GGTA,,,KGP,SER,HOWRAH,WEST BENGAL,ঘোড়াঘাটা,,Kharagpur railway division,Howrah–Kharagpur line,22.458315/87.94424
+756,GIRI MAIDAN,GMDN,,,KGP,SER,MEDINIPUR WEST,WEST BENGAL,গিরি ময়দান,,Kharagpur railway division,Kharagpur–Bankura–Adra line,22.340478/87.306151
+757,GOKULPUR,GKL,,,KGP,SER,MEDINIPUR WEST,WEST BENGAL,গোকুলপুর,,Kharagpur railway division,Kharagpur–Bankura–Adra line,22.375923/87.293716
+758,HALDIA,HLZ,,,KGP,SER,MEDINIPUR EAST,WEST BENGAL,হলদিয়া,1968,Kharagpur railway division,Panskura–Haldia branch line,22.045284/88.06589
+759,HAUR,HAUR,,,KGP,SER,MEDINIPUR EAST,WEST BENGAL,হাউর,,Kharagpur railway division,Howrah–Kharagpur line,22.365254/87.655069
+760,JAKPUR,JPR,,,KGP,SER,MEDINIPUR WEST,WEST BENGAL,জকপুর,,Kharagpur railway division,Howrah–Kharagpur line,22.362509/87.389853
+761,KESHABPUR,KSBP,,,KGP,SER,MEDINIPUR EAST,WEST BENGAL,কেশবপুর,1968,Kharagpur railway division,Panskura–Haldia branch line,22.221674/87.948672
+762,KHIRAI,KHAI,,,KGP,SER,MEDINIPUR EAST,WEST BENGAL,ক্ষীরাই,,Kharagpur railway division,Howrah–Kharagpur line,22.374504/87.696628
+763,KOLAGHAT,QGT,,,KGP,SER,MEDINIPUR EAST,WEST BENGAL,,,,,
+764,KULGACHIA,KGY,,,KGP,SER,HOWRAH,WEST BENGAL,কুলগাছিয়া,1900,Kharagpur railway division,Howrah–Kharagpur line,22.472352/88.020395
+765,MADPUR,MPD,,,KGP,SER,MEDINIPUR WEST,WEST BENGAL,মাদপুর,,Kharagpur railway division,Howrah–Kharagpur line,22.369694/87.443268
+766,MAHISADAL,MSDL,,,KGP,SER,MEDINIPUR EAST,WEST BENGAL,মহিষাদল,1968,Kharagpur railway division,Panskura–Haldia branch line,22.176299/88.010799
+767,MAJU,MJH,,,KGP,SER,HOWRAH,WEST BENGAL,মাজু,,Kharagpur railway division,Santragachi-Amta Branch Line,22.6160758/88.0787364
+768,MAURIGRAM,MRGM,,,KGP,SER,HOWRAH,WEST BENGAL,মৌড়ীগ্রাম,1900,Kharagpur railway division,Howrah–Kharagpur line,22.5798168/88.2556745
+769,NALPUR,NALR,,,KGP,SER,HOWRAH,WEST BENGAL,নলপুর,1900,Kharagpur railway division,Howrah–Kharagpur line,22.529208/88.185699
+770,NANDAIGAJAN P.H.,NDGJ,,,KGP,SER,MEDINIPUR EAST,WEST BENGAL,নন্দাইগাজন,,Kharagpur railway division,Howrah–Kharagpur line,22.404098/87.832458
+771,NARAYAN PAKURIA MURA,NPMR,,,KGP,SER,MEDINIPUR EAST,WEST BENGAL,নারায়ণ পাকুড়িয়া মুড়াইল,,Kharagpur railway division,Howrah–Kharagpur line,22.399692/87.773985
+772,RADHAMOHANPUR,RDU,,,KGP,SER,MEDINIPUR WEST,WEST BENGAL,রাধামোহনপুর,,Kharagpur railway division,Howrah–Kharagpur line,22.356484/87.612611
+773,RAGHUNATHBARI,RGX,,,KGP,SER,MEDINIPUR EAST,WEST BENGAL,রঘুনাথবাড়ী,1968,Kharagpur railway division,Panskura–Haldia branch line,22.353228/87.797247
+774,RAJAGODA,RGA,,,KGP,SER,MEDINIPUR EAST,WEST BENGAL,রাজগোদা,1968,Kharagpur railway division,Panskura–Haldia branch line,22.324313/87.866472
+775,RAMRAJATALA,RMJ,,,KGP,SER,HOWRAH,WEST BENGAL,রামরাজাতলা,1900,Kharagpur railway division,Howrah–Kharagpur line,22.5893817/88.2967522
+776,SANKRAIL,SEL,,,KGP,SER,HOWRAH,WEST BENGAL,সাঁকরাইল,1900,Kharagpur railway division,Howrah–Kharagpur line,22.5613094942/88.2090743463
+777,SHYAM CHAK,SMCK,,,KGP,SER,MEDINIPUR WEST,WEST BENGAL,শ্যাম চক,,Kharagpur railway division,Howrah–Kharagpur line,22.363451/87.500479
+778,TAMLUK,TMZ,,,KGP,SER,MEDINIPUR EAST,WEST BENGAL,তমলুক জংশন,1968,Kharagpur railway division,Panskura–Haldia branch line-Tamluk–Digha branch line,22.275813/87.919144
+779,TIKIAPARA,TPKR,,,KGP,SER,HOWRAH,WEST BENGAL,টিকিয়াপাড়া,1900,Kharagpur railway division,Howrah–Kharagpur line,22.5986/88.3243
+780,ULUBARIA,ULB,,,KGP,SER,HOWRAH,WEST BENGAL,উলুবেড়িয়া,1900,Kharagpur railway division,Howrah–Kharagpur line,22.472428/88.093209
+781,NIMPURA,NMP,,,KGP,SER,MEDINIPUR WEST,WEST BENGAL,নিমপুরা,,Kharagpur railway division,Asansol–Tatanagar–Kharagpur line,22.325255/87.265053
+782,BALTIKURI,BALT,,,KGP,SER,HOWRAH,WEST BENGAL,বাল্টিকুরি,,Kharagpur railway division,Santragachi-Amta Branch Line,22.6094046/88.296114
+783,BEGUNKODAR,BKDR,,,RNC,SER,PURULIA,WEST BENGAL,বেগুনকোদর,1960,Ranchi railway division,Purulia–Ranchi Line,23.3875/86.0217
+784,JHALIDA,JAA,,,RNC,SER,PURULIA,WEST BENGAL,ঝালদা,,Ranchi railway division,Purulia–Ranchi Line,23.370167/85.97484
+785,ILLOO,ILO,,,RNC,SER,PURULIA,WEST BENGAL,,,,,
+786,SUISA,SSIA,,,RNC,SER,PURULIA,WEST BENGAL,সুইসা,,Ranchi railway division,Muri–Chandil branch line,23.196775/85.909013
+787,TORANG,TRAN,,,RNC,SER,PURULIA,WEST BENGAL,তোরাং,,Ranchi railway division,Muri–Chandil branch line,23.26814/85.858638
+788,TULIN,THO,,,RNC,SER,PURULIA,WEST BENGAL,তুলিন,,Ranchi railway division,Purulia–Ranchi Line,23.378363/85.902125
+9,CHURULIA,CRA,F,,ASN,ER,PASCHIM BARDHAMAN,WEST BENGAL,?????????,,Eastern Railway,Andal-Sainthia branch line,
+10,GOURANDI,GNI,F,,ASN,ER,PASCHIM BARDHAMAN,WEST BENGAL,????????,,Eastern Railway,Asansol-Adra line,
+12,HINDUSTAN CABLE FY.,HCF,NA,,ASN,ER,PASCHIM BARDHAMAN,WEST BENGAL,??????????? ???? ?????????,,Eastern Railway,,
+51,TAKIPUR HALT,TKPH,F,HG2,HWH,ER,HOOGHLY,WEST BENGAL,??????? ????,,Eastern Railway,Howrah-Bardhaman chord,
+63,ISLAMPARA HALT,IPRA,F,HG3,HWH,ER,HOOGHLY,WEST BENGAL,?????????? ????,,Eastern Railway,Bandel-Katwa line,
+69,KAZIPARA HALT,KZPE,F,HG3,HWH,ER,MURSHIDABAD,WEST BENGAL,????????? ????,,Eastern Railway,Barharwa-Azimganj-Katwa loop,
+80,BHADRESHWAR GHAT,BHAE,NA,,HWH,ER,HOOGHLY,WEST BENGAL,????????? ???,,Eastern Railway,,
+82,RAMKISTOPORE,RKAE,NA,,HWH,ER,HOWRAH,WEST BENGAL,???????????,,Eastern Railway,,
+240,BALLALPUR,BPBS,E,NSG6,MLDT,ER,MURSHIDABAD,WEST BENGAL,?????????,,Eastern Railway,Barharwa-Azimganj-Katwa loop,
+263,COOPERS HALT,CPHT,F,HG3,SDAH,ER,NADIA,WEST BENGAL,??????? ????,,Eastern Railway,Ranaghat-Bangaon line,
+282,MATNIA ANANTAPU,MNAP,F,HG3,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,????????? ????????,,Eastern Railway,Barasat-Hasnabad line,
+295,SHANTINAGAR HAL,SNTR,F,HG3,SDAH,ER,NADIA,WEST BENGAL,????????? ????,,Eastern Railway,Sealdah-Ranaghat line,
+305,CHITPUR,CP,NA,,SDAH,ER,KOLKATA,WEST BENGAL,??????,,Eastern Railway,Calcutta Chord link line,
+306,COSSIPORE ROAD,CED,NA,,SDAH,ER,KOLKATA,WEST BENGAL,??????? ???,,Eastern Railway,Calcutta Chord link line,
+307,KANKURGACHHI ROAD JN,KGK,C,,SDAH,ER,KOLKATA,WEST BENGAL,??????????? ??? ????,,Eastern Railway,Sealdah South section,
+308,KIDDERPORE DOCKS,C,C,,SDAH,ER,KOLKATA,WEST BENGAL,???????? ??,,Eastern Railway,,
+309,NASHIPUR ROAD H,NSO,F,,SDAH,ER,MURSHIDABAD,WEST BENGAL,?????? ??? ????,,Eastern Railway,Jiaganj-Azimganj connection,
+370,BIRA,BIRA,C,SG3,SDAH,ER,24 PARAGANAS NORTH,WEST BENGAL,????,,Eastern Railway,Sealdah-Bangaon line,22.8055/88.6253
+422,KomagataMaruBGB,KBGB,C,SG3,SDAH,ER,24 PARAGANAS SOUTH,WEST BENGAL,???????????? ????,1890,Eastern Railway,Sealdah South section,22.4839/88.1729
+502,GUMANIHAT,GUZ,E,NSG6,APDJ,NFR,COOCHBEHAR,WEST BENGAL,?????????,,Northeast Frontier Railway,New Jalpaiguri-New Bongaigaon section,
+544,SRIPUR HALT,SRPU,F,HG3,KIR,NFR,MALDAH,WEST BENGAL,??????? ????,,Northeast Frontier Railway,,
+612,MATHNASHIPUR PH,MTIP,F,HG2,ADRA,SER,PASCHIM BARDHAMAN,WEST BENGAL,????????? ?????,,South Eastern Railway,Bankura-Masagram line,
+623,BIKNA PH,BKNO,F,HG3,ADRA,SER,BANKURA,WEST BENGAL,????? ?????,,South Eastern Railway,Bankura-Masagram line,
+624,BOKRA PH,BOKA,F,HG3,ADRA,SER,PASCHIM BARDHAMAN,WEST BENGAL,?????? ?????,,South Eastern Railway,Bankura-Masagram line,
+634,MUSTAPHA CHAK,MFCK,F,HG3,ADRA,SER,PASCHIM BARDHAMAN,WEST BENGAL,???????? ??,,South Eastern Railway,Bankura-Masagram line,
+657,BOWAICHANDI PH,BWCN,F,NSG6,ADRA,SER,PURBA BARDHAMAN,WEST BENGAL,??????????? ?????,,South Eastern Railway,Bankura-Masagram line,
+711,HALDIA DOCK COMP. GE,HDCG,NA,,KGP,SER,MEDINIPUR EAST,WEST BENGAL,??????? ?? ?????????,,South Eastern Railway,Panskura-Haldia line,
+712,KHARAGPUR WORKSHOP,KGPW,NA,,KGP,SER,MEDINIPUR WEST,WEST BENGAL,???????? ?????????,,South Eastern Railway,,
+713,HOWRAH SOUTH N C,HWHS,A1,NSG1,KGP,SER,HOWRAH,WEST BENGAL,?????? ????,,South Eastern Railway,,
+719,BELDA,BLDA,D,NSG5,KGP,SER,MEDINIPUR WEST,WEST BENGAL,?????,,South Eastern Railway,Kharagpur-Puri line,21.9056/87.3508
+739,AMTA,AMTA,A,SG3,KGP,SER,HOWRAH,WEST BENGAL,????,,South Eastern Railway,Santragachi-Amta branch line,22.5833/88.0167
+763,KOLAGHAT,QGT,C,SG3,KGP,SER,MEDINIPUR EAST,WEST BENGAL,???????,1900,South Eastern Railway,Howrah-Kharagpur line,22.4284/87.8765
+785,ILLOO,ILO,E,NSG6,RNC,SER,PURULIA,WEST BENGAL,?????,,South Eastern Railway,Muri-Chandil line,
